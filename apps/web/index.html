@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="fc:miniapp"
+      content='{"version":"1","imageUrl":"%VITE_MINIAPP_IMAGE_URL%","button":{"title":"Open Relay","action":{"type":"launch_miniapp","name":"Relay","url":"%VITE_MINIAPP_URL%","splashImageUrl":"%VITE_MINIAPP_SPLASH_URL%","splashBackgroundColor":"#f4f0e2"}}}'
+    />
+    <meta
+      name="fc:frame"
+      content='{"version":"next","imageUrl":"%VITE_MINIAPP_IMAGE_URL%","button":{"title":"Open Relay","action":{"type":"launch_frame","name":"Relay","url":"%VITE_MINIAPP_URL%","splashImageUrl":"%VITE_MINIAPP_SPLASH_URL%","splashBackgroundColor":"#f4f0e2"}}}'
+    />
+    <title>Relay | DeadDrop SocialFi</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
