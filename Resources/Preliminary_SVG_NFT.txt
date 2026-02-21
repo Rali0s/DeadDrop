@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Daily War Brief dossier: The Hollow Nickel">
+  <defs>
+    <style>
+      :root{
+        --paper:#ece7dc; --ink:#141414; --muted:#3a3a3a;
+        --grid:rgba(20,20,20,.08);
+        --red:#7a0b0b; --blue:#0b2d7a;
+      }
+      .paper{fill:var(--paper)}
+      .stroke{stroke:var(--ink); stroke-width:3; fill:none; vector-effect:non-scaling-stroke}
+      .thin{stroke:var(--ink); stroke-width:2; fill:none; vector-effect:non-scaling-stroke}
+      .grid{stroke:var(--grid); stroke-width:2; vector-effect:non-scaling-stroke}
+      .mono{font-family:monospace}
+      .title{font-size:34px; letter-spacing:.12em; font-weight:800}
+      .sub{font-size:16px; letter-spacing:.18em; font-weight:700}
+      .small{font-size:14px; letter-spacing:.08em}
+      .micro{font-size:12px; letter-spacing:.06em}
+      .muted{fill:var(--muted)}
+      .ink{fill:var(--ink)}
+      .stampRed{fill:none; stroke:var(--red); stroke-width:10; opacity:.75}
+      .stampBlue{fill:none; stroke:var(--blue); stroke-width:10; opacity:.75}
+      .stampTextRed{fill:var(--red); opacity:.78; font-weight:900; letter-spacing:.18em}
+      .stampTextBlue{fill:var(--blue); opacity:.78; font-weight:900; letter-spacing:.18em}
+    </style>
+
+    <!-- subtle paper grain -->
+    <filter id="grain" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+      <feColorMatrix in="n" type="matrix"
+        values="0 0 0 0 0.15
+                0 0 0 0 0.15
+                0 0 0 0 0.15
+                0 0 0 .08 0" result="g"/>
+      <feBlend in="SourceGraphic" in2="g" mode="multiply"/>
+    </filter>
+
+    <!-- coin radial shading -->
+    <radialGradient id="coinGrad" cx="40%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".55"/>
+      <stop offset=".45" stop-color="#111111" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#111111" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- paper -->
+  <rect class="paper" x="0" y="0" width="1024" height="1024" filter="url(#grain)"/>
+
+  <!-- outer border -->
+  <rect class="stroke" x="48" y="48" width="928" height="928" rx="18"/>
+
+  <!-- single punch hole (top-left) -->
+  <circle class="thin" cx="94" cy="94" r="18"/>
+  <circle class="thin" cx="96" cy="94" r="15" opacity=".35"/>
+  <line class="thin" x1="82" y1="94" x2="76" y2="94" opacity=".55"/>
+
+  <!-- fold/crease -->
+  <line class="grid" x1="512" y1="88" x2="512" y2="936"/>
+  <line class="grid" x1="80" y1="352" x2="944" y2="352"/>
+  <line class="grid" x1="80" y1="672" x2="944" y2="672"/>
+
+  <!-- header -->
+  <text class="mono title ink" x="512" y="132" text-anchor="middle">DAILY WAR BRIEF</text>
+  <text class="mono sub muted" x="512" y="168" text-anchor="middle">2026-02-19  //  THE HOLLOW NICKEL</text>
+
+  <!-- left column label USSR -->
+  <text class="mono micro ink" x="92" y="248">DOSSIER: USSR FILE</text>
+  <text class="mono micro muted" x="92" y="272" font-weight="800">REF: CW-URUK / DEAD-DROP PHYSICS</text>
+
+  <!-- right column label USA -->
+  <text class="mono micro ink" x="560" y="248">DOSSIER: USA FILE</text>
+  <text class="mono micro muted" x="560" y="272" font-weight="800">REF: CW-BRKLN / SIGNAL HYGIENE</text>
+
+  <!-- fields left -->
+  <g class="mono">
+    <text class="micro muted" x="92" y="318">CLASSIFICATION</text>
+    <text class="small ink" x="92" y="342">СОВЕРШЕННО СЕКРЕТНО</text>
+
+    <text class="micro muted" x="92" y="392">MECHANISM</text>
+    <text class="small ink" x="92" y="416">HOLLOW COIN / MICROFILM</text>
+
+    <text class="micro muted" x="92" y="466">VECTOR</text>
+    <text class="small ink" x="92" y="490" font-weight="800">SILENT EXCHANGE</text>
+
+    <text class="micro muted" x="92" y="540">LESSON</text>
+    <text class="small ink" x="92" y="564">PHYSICS BEATS SOPHISTICATION</text>
+  </g>
+
+  <!-- fields right -->
+  <g class="mono">
+    <text class="micro muted" x="560" y="318">CLASSIFICATION</text>
+    <text class="small ink" x="560" y="342">EYES ONLY</text>
+
+    <text class="micro muted" x="560" y="392">FAILURE MODE</text>
+    <text class="small ink" x="560" y="416" font-weight="800">DROP / DISCOVERY / RECOVERY</text>
+
+    <text class="micro muted" x="560" y="466">COUNTERMEASURE</text>
+    <text class="small ink" x="560" y="490">ASSUME THE SMALL THING LEAKS</text>
+
+    <text class="micro muted" x="560" y="540">FIELD NOTE</text>
+    <text class="small ink" x="560" y="564">OPSEC IS PORTABLE OR IT FAILS</text>
+  </g>
+
+
+  <!-- quote block (moved up + expanded downwards to fit) -->
+  <g>
+    <text class="mono micro muted" x="112" y="724">QUOTE (TRADECRAFT)</text>
+
+    <text class="mono" x="112" y="764" fill="var(--ink)" font-size="16" font-weight="700">
+      <tspan x="112" dy="0">“A Brooklyn newsboy discovered a nickel with a hidden compartment containing microfilm...</tspan>
+      <tspan x="112" dy="30">this ingenious dead drop underscored the simplicity and effectiveness of the silent exchange.”</tspan>
+    </text>
+
+    <text class="mono micro muted" x="112" y="908">— Rudolf Abel Case</text>
+  </g>
+
+  <!-- single horizontal classification bar -->
+  <g transform="translate(88 604)">
+    <rect x="0" y="0" width="848" height="86" fill="#111111"/>
+    <text class="mono" x="424" y="36" text-anchor="middle" fill="#ece7dc" font-size="24" font-weight="900" letter-spacing=".08em">СЕКРЕТНО</text>
+    <text class="mono" x="424" y="64" text-anchor="middle" fill="#ece7dc" font-size="21" font-weight="800" letter-spacing=".14em">TOP SECRET</text>
+  </g>
+</svg>

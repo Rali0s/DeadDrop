@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "sourceFiles": {
+    "baselineSummary": "docs/simulations/rel-day250-summary.json",
+    "stressSummary": "docs/simulations/rel-stress-summary.json"
+  },
+  "checks": {
+    "global": {
+      "expectedMaxSupply": 75000000,
+      "expectedGenesisSupply": 18750000,
+      "expectedDevWalletReserve": 3750000,
+      "expectedDevReservePctOfGenesis": 0.2,
+      "expectedRemainingPool": 56250000,
+      "minReserveForSpecialEditions": 16875000,
+      "minRemainingBudgetAfterDay250": 16000000
+    },
+    "baselineDay250": {
+      "requiredBpsUser1": 7000,
+      "requiredBpsUser3": 19500,
+      "minCumulativeEmission": 20000000,
+      "maxCumulativeEmission": 24000000
+    },
+    "stressDay250": {
+      "minRuns": 100,
+      "maxAnomalyCountP95": 30,
+      "minCumRewardUser3P50ByScenario": {
+        "A": 200000,
+        "B": 50000,
+        "C": 20000
+      },
+      "minCumRewardUser1P50ByScenario": {
+        "A": 90000,
+        "B": 25000,
+        "C": 12000
+      }
+    }
+  }
+}

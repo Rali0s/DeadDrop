@@ -1,0 +1,929 @@
+# FOIA Text Pack Part 3/5
+
+- Total extracted pages in full corpus: 166
+- Pages in this part: 39
+- Source distribution in this part:
+  - MKUltra-Recipts.pdf: 34 page(s)
+  - project mk-ultra[15545700].pdf: 5 page(s)
+
+## MKUltra-Recipts.pdf - Page 65
+
+"T For servlees _
+INYDIC 537 , ,, "
+_ $221.03
+1- 0 Q Q - - - nan' I u o 0 Q Q Qq¢-Qg_q§_9!V3g_9_5q.IiwauauunngggQwiIigQQQQ9!!!!_!!5ffLTii'I'_' _ '_ i _
+l'I'Q\
+CERTIFICATIONS -
+(1) it is hereby '1 épplying $9
+$pbprojefc&t 53 of Projeférr¢1KQL'rRAj]i1?;t*téchni-;a1 perforrnargc;-e* 3 j i i
+has been satisfactory; thjaj t_he_ §§*iB1'l 8¢¢°1T!P"5?'1%l1 in
+accordance t1\_.a_tg_d_e;;;11ed agenda of the _
+payments: and receiptsare on file in TSS/CD, jthat this bill is jusj _
+and correct and that pgyment thereof has not yet been made; -
+Ame; Q1131; §L_SS7C'hiéi»3I{c1a§l i5i\}i;si_QQQ ;;,;§Q I1; .
+Date:
+(2) It is hereby certiﬁed that this 'ui\R>lé"é'ai>';;>lie;s to
+under Pr'ojectvMKULT.RA whi<;h"v7é?du1y approved and that the
+project is being carried out in accordance with ighe memorandum
+dated 13 April 1953,from_the_DCI_t§lhé;QDA._§11d the extension ofm_
+this authority Ln _@
+R*e5éai+ch
+Date:
+
+## MKUltra-Recipts.pdf - Page 66
+
+W nee on
+rv 1927
+r Z ._- V
+Q3 'l " % , W
+6_\;pendjL
+bllﬂl
+t-be
+@335 F'I"I T
+PTBREARY 1957
+Confa.e
+,OO V
+OO Y
+P-' C) C)
+n 12 Feorua J
+9 ?ebruary 1957
+f\ 77 0 'do
+H! '5 LA; }_l
+"onferenoes
+nf:r:n;§€Qﬁ:#TMWH
+_ 731.'?
+1'u[_,'/Ll)?
+4' Jﬂql
+15,1
+.4 9.1 5? :0I
+for co raaion
+12 ?ebruapy
+13 and 1? February ~
+rials ani telephone cal1s_W l;i§_;;;4;;,
+>7 >1 2 '7'";
+Fﬁme "*"""
+5 'O33 .
+\o'-ui C as =
+mg i l21 . i----iI--n-iunIIiIIniiilllnllllliillllllﬁii
+
+## MKUltra-Recipts.pdf - Page 67
+
+if "*3 if W i V *7' 7 WV W H V i W" Wiﬁimi ;—T : V _ - . . '
+1 'jiffy' W r i W if r
+RECEIPT
+is hereby acknowledged of the sum of $131.36, in _
+" "771 _ '
+1*' " 16/57
+
+## MKUltra-Recipts.pdf - Page 68
+
+'7 30 January 195'!
+mzsaxoaauoura FOB: CHl.EF,_FLNANCB DIV1SXON,; _ _ _
+Q TIA: 1133/ _
+" " Ffbject MKULTRA, Subproject 53,
+Invoice No. »6,-_ Alloiment 8-2502-10-001 -_
+~ Li\volce_N_0_.%6 for Subprpj §Q§_5§3L§f§' °}%¢i MK" L735 13
+attached. Qtherinvoices will foliow Later. is that Z if
+payment be made in _cash, in small bllléjfiif the amount,0ff$1,3_1@3§._ i
+The cash should to Chi<:_!
+£13 ihzjough T33/Budget
+, TQSI _:
+omm by 1 Eebruéry 1957; 1
+SIDNEY GOTTLIEB W? "*
+, Chiéf
+' TSSI Chem lcalrﬂvision
+Invoice & Certifications
+Dlalrtbution: * » , 3 ,f~.\' ,
+Qrigxh 2 - Addresses
+1 - Comptroller . -
+i if
+77"" ""7 _
+ti —7r77 _
+
+## MKUltra-Recipts.pdf - Page 69
+
+INVOICE-_1-,
+_ For services >1 f
+$131.36
+CEHTIEI_C_AI_IONS 7
+(1) It is hereby certified that this ts Invoice bio. 6 apptytngtqj
+Subprejeet 53 to! Project MKULTRA, that technical performance
+has be~en satisfactqrygthat the services have gbeengacconmplishedt in
+accordancejwith mutual t§it*a detailed agenda of that
+payments and receipts are on H16 in TSS/CD,; that thisbttl istjust
+and correct and that pgyment thereof has not yet been ma,d@,-t _ _
+7_ _ A 73 _
+cater, ;TsS7cuei§n¢;a1 1i)tvls§i"6r't"'7
+Date:
+(2) n is nmby_¢e:tt:t@aist;it;th1§tiav<>i<=¢ =~:>;>1ie's;t6t Subpr¢Je¢t
+under Project MKULTRA which was du1'y*a§proved and that
+project is being gtttjn agcordanee with the memorandum'
+dated 13 Aprt1.t1953 from the DCI t6 thé DDA1, and theextenston
+this authorvityltlsttbsequent mam oranda I tt '
+Research Director _
+Date:
+
+## MKUltra-Recipts.pdf - Page 70
+
+Q 'r '-t'
+_ 1, ; 1§iEIvlCili§\NDU?~ri FOR: CHIEF, FINANCE' DIVISION '_
+13 Novaamber 1958
+TSSI Budget Ulflcer ~
+f f Froject MKULTRA, Subpro§ect,33,
+Involce,£€eT 5;'A1lotmen: 6-2502-10-001 1
+invoice No. ,5 _l'_5§l3§'£9§\?C¥ 53 of 'Frojact MI<ULTi-1.=!Ha_ 0-4; CI
+gttaehed. (Ether mvoicés will follow later. It is requested that 1
+paymeat be mad-ejn cash. in small amount of $14-5. 93.
+Officer.
+SIDNEY GQTTLIE-B
+Chief
+TSS/Chemical Division Q
+Aitaehments:7 ~ — — — — _ _ _
+Distribution:
+Orig 2, 2 wxddﬁgséa- _
+In Comptrolicér, 1 S
+I/\I/ I» rn
+1 ":25
+
+## MKUltra-Recipts.pdf - Page 71
+
+nwo
+For services . $1*15- 93
+Q ncuqnnnno Q u ¢ - - - - Q - . - - Q Q q c - IQUQQQIOII!QQ—_CCﬂQ_.ﬂU§'!£g_QDII W Yo-_ i ~*' *+.,
+It ii». hefeby certified that this 1; Invoice No. s applying to
+Subproject 53 of MKULTRA, that techpical performanco W
+has' beén satisfactory,;t§\at the services havebeen accomplished in ;~¢
+accordance with mutual agreements, that a detailed agenda of the
+oézyrhents and receipts are on file in"TSS/CD, o that this bill is just , ; Z
+and correct and that payxpent thoreof has not yet been made. _ ,
+€1{ief[ TSS7/*chT§€icli§it11)*iiéi§iﬁ;
+Date'u \.
+(2) It is hereby certified that this tnvoiozeo applies to Subproject 53
+under Project MKULTRA'which was duly approved and that thvtzi
+project is being carried out in aqoordanoe with the memorandum Z
+dated 13 April 1953 from_t,he_DC1toWt}1g.DpA,_and the extension of
+this authority in subsequent memorandafzf
+Research Director
+Date: J5.
+
+## MKUltra-Recipts.pdf - Page 72
+
+te1ephone;eal1s~and—postage W * ~ ~ 20- 1% éeptember €l.OQ) I-4 '-(
+Professional services:
+2G Septemﬁer throuzh "
+Novemter "
+Library research,_corresponience,wetc., "K" "
+SepnemreP:%h%eugh%%%+Nevem%éri1
+Tr rt vi. _- 1* M'
+7 ,7 1 7
+2 0 a on. ) .V¢--r la i ' V i " 5» ~; -5 ' 'P-"2
+W _ , 1 1 1, _ I
+Trans§srtation no and from home, office;
+?nd airporg;—inc1udiﬁ3T§§?Kih§TTéé*
+Estimated :~ @l@
+TOTAL _
+Re=nect 1 =ubmit
+_ Expenaasnand Fees 20 September 195% throush 16 Novem- »-/ 'er 199a
+$4 .00
+50.00
+50.00
+20.00 """"""
+17.95
+oved the 5,14:-m'. -. \ J-
+1 hav@ caanineﬁ and Q??? '
+Lulﬁf
+TSS/Chenical Divi5i°n
+LN i \ 1 VJ J'? L'? (U Z I71 (-3
+
+## MKUltra-Recipts.pdf - Page 73
+
+, I " 55'4'L
+RE'CEI.P'T
+Receiot is herabv acfaznowledged of the sum of I$l=£6.93, in
+T " W W; ' '
+cash. Q-'B
+41,-", 5';
+
+## MKUltra-Recipts.pdf - Page 74
+
+'H "i I\-"',
+1.3. ﬁagmmwr \
+ma: cater, Finawa ﬁivraiea '_
+i ~ z Préjagg Invoice §1§, ,-
+Ismiee 30¢ 1% fer ikzbprogact '$335? 3?:-oJee§ ia attaﬁaed. 1,
+o+.1zm.~ mveices w1.1J£feL1e'a 1.5»-er» I€*i?—:'<eqw2'*st=sd. w=;at"§;a;,ment be
+mania 1:1 cash, in smn 1>13.1sT1?t32a a1=%Wn$'0f,"-$17M82. 'Bee cash 1
+sheald 1:: seat an am§:;*§s/cn*za.*mg,*a ms/mm: m1eer.%**
+elm! '
+Ch1&f,JIS5/Chemical mmcsa "*""~*
+Inveiei €a Gertifieatibﬁa
+929$ -'
+was/cn(18 Sept 1956)
+'fl _ r
+_.,r fef. _,
+
+## MKUltra-Recipts.pdf - Page 75
+
+Invoicaig-r '
+F01' services $1'(lh&_
+~ ~ (1) It is here'by*cert:l£1é<1"tbat um». is lzlvozeéno. h applying W
+Subproject at perrormanee baa been ¢
+aa.t1s£acte:ry,—thai;~ tboservices hévé acco1'dance 1 v1.thmutua.1. agreexeenias, that 9. detailecl agenda of the payments and " , , ,
+reweists aww ﬁh 1n'1'$8/GD; that iuxlet
+that payment thereoi' has notiyetbeén'
+Bate:
+(2) It is herebi'6éit1f£e&"that u=i§1nw1é<ew>n@=
+under Project MKTJL'I'RA"vh1ch duly a§1:.z'oved€:;d, ;'ahe.t the project
+is 'being carried out 1ﬁ_a'cé6i~d;=.n¢'e_vS.th_tl1a_ memorandum <:La.t»e<1
+13 April 1953 ﬁomthe 2131 t.Qf'§22e'DDaf\Ta*;}<1."*§!1§5itenaiau'of this
+authority in
+Direizter i
+Date: '
+
+## MKUltra-Recipts.pdf - Page 76
+
+FOR saavzcss 2 Jue 1956 to 20 Séptémber 1956
+Services, $150.0
+and library*research * *"***"*?**f*1"
+Materials 8.30
+411".'
+53-4-S 5 4'
+vi. it a
+iv 'Z
+0600 cab, home;to1train;station*l~*;¥1*fYY1 , _
+2.50,,,_,,, _
+Cab
+Cab
+rm i '
+$17b.82
+iI"a'Y 7'-J ,
+I have ""
+;_j:_:z"~c-v-ea ::.e submitiied
+T88/vhesgggl Division
+
+## MKUltra-Recipts.pdf - Page 77
+
+aclmowledge receipt of the 9;' $1714.82, in Ycash.
+- W J - H _
+Ii 52-4?
+Date:
+
+## MKUltra-Recipts.pdf - Page 78
+
+FOR! CHIEF, FINANCE-'DIVISION "
+12 June 1956 »
+VIA: A
+'I'SSIBudget Cificar '
+_ ,, SUBJECT: Project MKULTHA, Subproject 53
+H Invoice #3, Allotment B-250240:00l—i:==1_—=== >_— >—
+invoice No. 3 for Sui:-project 53_of_Project
+attached. Other invéicés will*fbll€\x7 1§€e_E{'1t*is requestedfjj;";ijirijt; * "
+that payment be made byp,$MeE';3_ cheekﬂin the amount of $163. 83,
+ayab le to should be sent to Chief, _
+a?I'S$/CD through Jun-a 1958.
+SIDNEY GOTTLIEB» .
+. TSS/Cﬁémical Divisioix
+Atta.ch1;-aentsz" "
+Invoicaﬁ _Certifié§iibn3_
+Distribution: '
+Orig & Zihddressee
+1 1 Comptroller
+H *:" "W "WW 111*" "F "iifii é 3'
+. 'Q 111; eé i
+cHECK#i41?a/;N THE AMOUNT. onisaii
+Rsclzevs-;e.=. ,3 Y
+
+## MKUltra-Recipts.pdf - Page 79
+
+w Wm
+' :' SGPVICBS S' '
+.; =;,' qgf 4
+"11 -'I'llann'I;-InIliccunintnnnuQuinunwrccqowniuwiiniwiouriuuuccuni _
+(I) I_t is_he_reby that thus is Invq ce NV0. 3 applying i
+_pr0jec_t 53_o! Prdjeet MKULTBA; that technical performance has been
+satisfa'c€<$ry,"th:»:t the have Been "aéic
+plished in acéordance; :_;;_;; _
+v(ith'mu£p=_n1 of th*e*payniencs* and
+A;-;~.i;_rgce!p§s_are'<;n*file;'iiiLIISS/_CDf;th3§ ¢h_ls* just ,a_nd'correet a_nd.i..
+'I';~T Date! i
+TSS/Chéjmicai Division ~ 7 _ 3 '*- .¢~ ' _'_
+, ='§{l;_';_j_'(_2) ItA_ts'fhergby"cetjtilied that app1le5"€6'SubpVxf'oject
+~ : un_<'1e;'_ duly épproved and that thé projépti ":17:-'j _
+q _,j:j: ;=;¢§;_ _is_being_car:iéd'0ut_ lI§"aicb6rd§n6é*'&§ith" giated 13 April; - T -
+' from the'DCI'\_5"'!h_€ QDA.,,8nd_}he,_e>d_e:;\§jon ofjhis authority in;-.'¢>f*
+, L-t%j_§§§lRffspbseqixent membrlimdi'.'%;Zji§T;_;§?:;fjfl;?.I;§i;<;"§El_';i.;I1'§;:,§i Ff:-." '_
+K 104 - V .
+
+## MKUltra-Recipts.pdf - Page 80
+
+Q '_.'r- y.
+5 June 1956
+1 *1 d la April 1936 to " " Zviy ex-sens- an<:1_Wi'§§§;,§QEJé§§:TE?,:w_E
+1 June 1956 are": 1 1 ,
+30 April: Phone cal1,_'H' '75
+L/332 Leave '
+17 .93
+1.45 IGOO AI". ive_
+1915 Cab,
+2 May _
+1660 Ca'-.1 , office ,-ta' a1.I'p01"f- _
+1,7": 1 _ ,
+1915 L-'3 5V9 5 _,.- ,_
+20-G0 Arrive _
+Profess i-anal ,, ,
+1 and 2 my 1956 10°-O9
+Lia-vary research, cor=resp-cadence, etc.
+Total
+163-35
+I enclose mv*ressenger receipt for the air trip.
+I shall be mom: home on from about 7 June W1?-il
+about 25 June.
+<3 EU O Q'!
+goD-3'
+My best. z*e.».=ja:":1s ;-mi gr'-set1.n<:'s to you and all of your
+colleagues.
+f:;v&~ "ivisic*r
+U) C/J.
+
+## MKUltra-Recipts.pdf - Page 81
+
+JK (_/ GU
+x av 1,"; }'A
+R EC EIPT
+ﬁieceipt is hereby °5¢§@~ , Z .
+~da;e¢ J drawplap me 7%
+*0 <,i?w:s¢ _
+Dafeﬁ gt
+
+## MKUltra-Recipts.pdf - Page 82
+
+Q -fr »,
+5"? 55-47%-
+! May was
+aasraozaannum mvzsxom i
+I a Ofﬂc vim" -
+ss Bi get? ~
+_ ~?r61€-ct MKULTRAf'Subproject 53
+Involee"#2,*A1lotrnent *
+" * * "Invoice N-3". 2I61"Si1Bprof§gf_§§;_Qf}?;§ojQgﬂ MK'UL.'1'BA is
+attached. Other invoices M11 follow later. It is requested that '
+payment be made in cash, in small bills, in the amount,of_$'2'3.2,0. '
+The cash should besent to Chief, CD thréugh TSS/Budget
+Gfﬂcer hywednesdigﬁp 2 B;!aff_1956 .
+Attaehmems:
+Distribution: N
+Orig & 2;Addressee,_ E-'A23-1 'r;
+SIDNEY 6%-TTLmB ,
+Chief
+TSS/Chemical _;fff
+1531» '
+' 51" 7'
+$ L717; _ _ I
+
+## MKUltra-Recipts.pdf - Page 83
+
+_ , WW W
+3iE?d<}RAi~%DUM ma: CBI3F',"'FINAI'€Ci3 nlvislw -
+" * T'ss/sum: wwe» f
+SUBJECT: Pr91e§":t?AKUL'F'iiA, Subprojeqt 1; 5 " ' " lzwoiee i2,"'Mlotmeat 8-3503-Ii}-G01
+aﬁaelzed. ether will fo\_1o'~.v' 1a"§<¢i7. It is requested that
+payment be maﬁa in cash, in smzm bills; la me amount of :;73;30. _ '
+The cash*s€-zouid be sent to Chief. "I'$[(iD t¥1;~uugh*jT§3fBudget Z
+Qfﬂcér by Weénesday, i
+"i'S3IChemical 'Divislm _: _
+Atxaehmenis: Q "
+Diﬂribuﬂqm 1 W l_ QERWFYY 181? PJNQS 'ARE AVAH./-.i!.E=
+/1 _ .4f'..'THC'R!Z?NQ QFFICER -
+2 - rrss/cm *_
+TSS/CD1 Mgyisss) ,
+,_ " '"- lil-
+
+## MKUltra-Recipts.pdf - Page 84
+
+'§VOI*CE§2'
+,_ 7 For services '
+in i
+_§73'._20_ W
+_'-,a~-_,a ' an Q I Q Q c Q Q D q _ a n Q ' m I I I u n Q Q Q Q n a u n Q c I I a I Q Q C I i n Q — Q c Q '
+n is hereby certified that znieeeisegnvpiice 2 applying W $"b~
+project 53 of Project MKULTRA, that techni§a1_ performance has been f
+satisfactory, that the services hayeébeen accomptished in accordance _
+with mutual agreements, that zrdetaited agendaeof the paymentsﬂand _ W ,e
+receipts are on t'iIe*trY_TSS/CD,» thiat this bill is juet and correct endizw
+t SIDNEYGOTTLIEB "_ Chief .
+I TSSI Chem ical Division" e
+Date:
+(2) It is hereby certified that this invoice applies to Subproject '53
+u.nder_ Froject MKULTR'ATvhich was duty apprqved and that thepzioject i Z
+is being earrie<l,o\1Lt_in_§_c_<;_0L_'3 f=\I1¢~'-t Witllltli memorandum tdateQ,1;3¢,A!11_',i! 7*
+1953 from the DC! to the DDA, and the extéhézizqn ofthis authority in
+subsequent memorahdepie e
+Date:
+
+## MKUltra-Recipts.pdf - Page 85
+
+;<,-w ~ i i
+For thé period 17 JaﬁvaPy"l95@"ﬂQ 15 A?Pi1 1956:
+Pcstage, supplies and §elephone%i;;:;;::i 3 3'19
+F6? professional services: "
+Consultation by telephone (1§5 17, and A —— February;"and"23"ﬁarcﬁ"l996)3_f 20-V0
+G0nsu1tation;i3_April; m 'i-' \OU 'O'
+Library research: *
+_.iQ;QQ_
+TOTAL $73790
+x @_{b&.;7t
+
+## MKUltra-Recipts.pdf - Page 86
+
+_ W H W V M
+1 Q lMayl956
+t f the sum of $73.20, in cash; *
+— — ~ I hereby acknowledge recexp o ,
+
+## MKUltra-Recipts.pdf - Page 87
+
+777 3
+V V 7 " "W7"' 7'
+_ _ﬂ 2? Jamznqr 1956
+902-1: cam, 1Prtm:<rs*n'wLs1oa*i
+nvmm '§1{A]J.ot2>.eut 644502-10-4191 W
+r 11 Invoice 55¢. 14501' Sabproje>_@c,*!@W§} Qiffroject 1~'1§'JL'iiL\ is
+" attached. Omar invoice; will follow later. It is reqnw-ate-:1 M
+that payzaeat ha ma¢i5*b7 caegh<:ck 15 jaw amuat oi
+m m check should bé " *
+_ :*"..1..s/swam; Diviaion
+Attaabaanta: M ;
+Qrig a 2?Adr}reasee i
+.-.;.;.1jIj
+L .~1i'rss?;$
+2 fT'"'T;i
+Bhkributioa
+r 1 ff; ,1 '1; 'I' =
+. :_a-wsnr: -' 92. HA "Zia W1'
+¢=-:51.!Nw-mv
+
+## MKUltra-Recipts.pdf - Page 88
+
+ii' Z
+*9-0 'gnu -,1 -u an 'Q up mg up In -run up an cl 1 an Z1! Q; -n ya 3 nu an $,iI_c|s_'-_ V_ W;;;; 7
+— "(l) It is_bera'oy_ is Invo1ca,3o._1 8-pplyimg
+to Subproject 533$ Projaqt_I~§1§IIL'l3§T?E§3'}it5 teclmieal performance ,
+has been satisfaéﬁiryitbat tho services h,ave*'oeen aee<>~.~np1ished,7"
+in acaaréance uith'nn.rba;21 agreements, that a det-ailedggengia _e£ the paymntaand receipts are on filain TjSS/G); thI1tTthi.§bL1;."ifj
+Ls just amicorrect and that payment 'ohereo£'_haa,,n,o§_ yet been
+maﬁa. ~ *
+. '£38/Chemical Di.v*lsi6zT*"1_—.r ¢ .
+(2) 11713 herab7'cerbif'ied that
+pl-eject —53*ﬁs1<ie;r Pibjéet"!=5ULi'RA"i1b1eh uaa_ dul7_appr0§edJnsi ;_' >
+the prrojeet is being carried 6ut'in§ccordance,v1th_the_
+. mrnorandlrsi dated 13 Aw1_3:;§_§3_§g9§{_tq1;a' DQI*t61he,DDAEn§;ll7""1I;1I11
+the extensiorinf this authority in suhéequent msmaranda. , _ Z
+n Dc '
+9 _; gr 5% ~ 1
+
+## MKUltra-Recipts.pdf - Page 89
+
+7 ~ 77 7
+D gg 1} I
+.7 777 -; ~7 57 7 7; 7
+7 .~7 7
+77.7»-7 v7~<,£=1,7~§>_7 7 -7*, 'I, :7 7; 77, 77 777 _ 77 77 7 7 7 7
+, ,7 - ,'V g 4 W >
+F' ii' Wm" i
+sH'FFED W,/777777 77 7 7 7
+- 77 ~ @77'¢7"7»:7:s 7.= =77-7:» 7 - - 77 »777 ,7 7 7 7
+77i7'_,
+,1 7 7 7
+aw 7 7 . 7 7
+. 777 _ 7 _7 7. 7 7 7 7 7
+7 .77'
+7 7. 7 77'; 7
+-, 77 7
+-7 7777 7 77',_ _ ﬁr 7 7 7 7;777 _7; 1: I -- 7 7 777_7777_7_ .
+19-51-5777-
+;a7u;;;nzn'uva." ?i$:§=:_z—n av sum vzA_
+mvonzé blrimﬂf -W W W 7 7
+"11-14-51;;
+CATALQ-S N0. 7
+QUANTITY PRICE C.'(TGN$l¢h TOTAL
+1453 HEFF'E§BR..set716 7 1 7 7215.00 $215.00
+7 "reams: NET CASH :0 DAYS' 77757777 '~"7""*i": iii" 7
+"7 7 ""7 4 M
+PAID_7z777777777 7 7
+
+## MKUltra-Recipts.pdf - Page 90
+
+UD yo ./ /K C43'
+"Kat go 5
+_ _ 7 7 7— ——
+
+## MKUltra-Recipts.pdf - Page 91
+
+— ~ STATQRENT
+FOﬁ (F) Pi Z,
+i ifi to 17 January41955"" * *
+< Q--I <2 u cu
+W Pl ﬁr we
+OU ;15 Dééemter 1Q55 _
+For materials " O-O0
+Tx/i ~51 OO
+('1 (0 3+
+Riino
+
+## MKUltra-Recipts.pdf - Page 92
+
+R.,c§:n.=-1'
+hereby acknowledgg receipt_ofmthe following check:
+,\ saw? "1
+Treasurerls Check No. 1hl355, dated February 3! 1956, in ,. _
+the §IiQQ $l+3{O.O0A,
+_._;¢ §_.Jr,r
+
+## MKUltra-Recipts.pdf - Page 93
+
+lieli X
+":<;iT== 1 .v
+VQ£PAR1'MENTOFPHARM.A¢Ql-OGY
+* WC 7 August 1.955 1,»
+=l'-Z"r
+-sex" s»
+m '<. an
+Eéy expense account. for the past; fe-,~: '
+24 July 1.955
+1530 Cab: friowln, er*9rts:;e:;;_e 2 -
+1630 Leav 'f»s"-'~
+4 F; e 1» s
+1950 A1"-r ive
+083$ Arrive at. office.%Gonsultenion"for?
+5 8-hour d1e_yso_'F-:??s_f_§5.OO;pen;h,our o_ _ 200.06
+1 August. 1955 i
+y H _ W . *1
+1220 Leave '
+WJ E-1
+G 'fr.
+OC- Ox .
+15 Ari' ive ' *
+" L2'? 3V9 _'
+2620 Arrive "
+2030 Gab: Airport to "home _ _ _ Z i (-X0( I0 \£)
+l—'l'U
+kouw
+7 June 1955 ene'13'*Jur{e'<'1§}55
+TO-rALT e $297.40
+I.nciden".aE1y.é I '-=-'on=ier' ﬁiyou can tell me
+- enything about a "Symposium en Psychocnem €€ry" w'r1ic'c is supposed. to
+be snonsored the Ir ~ a :1'-~*tl-'Le '
+Q r 1 ., ., n' A f s
+one], endelal insancl in —
+~ Although invit-at ions have been sent. out(and
+bsignd 3 'consulnizggo chemist' all people!) I
+have no idea whet. ﬁ1'1e—~1_£?IfQ§V!'V'§_@iOI' purpose of the thing; mighbbe. I have
+Qnears thathes been invites; t*<>"smsn<1o";r he has any material
+to present.". I am very curious about the Y.-:hol'.=: thing, since even
+'§~90§.'l€ who have receive-5. i.nvite'c.ions have not received programs. I.
+to sender 1' t-his is bein; held for the benefit. or Science
+can scientists oz" for the benefit. of "ounds a lintleg
+is like the brain picking session for e pharseceunicel house: "you sit.
+gIf9u*r}:i"_f.'e.l§<7§.n§§ science; we'll pick up the 001:1 scoop and the tab."
+
+## MKUltra-Recipts.pdf - Page 94
+
+Q-1 '55;
+W W If
+an-Q=§u~'-"
+4?; =9 LVl '
+_ K y;3.,z.z2jfjf i"ji1; Md Z4/5
+131:5 _ .1 _
+_' 1,11 V)
+4 'C/'fr
+Q _.a">_4:w:'
+nun' \"' '
+
+## MKUltra-Recipts.pdf - Page 95
+
+11 . 4/.
+DRP~FTA- 3 October 1955
+iMEMORAHDU%IFOR: THE RECORD? i_, ii" _iiiiiiiWii
+iH1;1SUBJECT 11
+: MKULTRA Subproject 53
+1 ~ 11 -
+-1» 1 A 1 1
+' "*'iiZ 1- 53 is being initiated to enable TSS/CD to
+(lg! continue to utill e the servic s of who
+is prie-sent-ly loeagedwat the Grgduathol 1i',b _ 2 The scope ofprb foilowing:
+(1) Review of overt Rﬁssian §ﬁ5?ﬁi65logiE§1'literatura1and**1 *
+submission of a1psriodic<ev=luatioh}4l1 ?Y¥1~>V =
+(b) Review of overt American pharmacological literature1with">*"
+resnect to the proble-;QS1¢r11?ss,/cn;11~1111~11 11 1 11 1
+_ ~ 1 - 7 — 1
+£525 'i
+gran will include the1——111 1—-1
+"com6leted research
+(G) At the: specific req\1_ss§ ;;>:1i<'rs;s1
+the reliability and va1idity1of>ppopoé§dfiﬁd;4W; projects,
+(d) Report on general scientific meetings attended.\
+(e) Act as 2 medical adviser*fob*TSS/CB*operations and supportii ,_ \> .1 V
+-_ ' function. '
+3. The cost of the program*for one year*is estimated at"*"*"*
+1"' $3,300.00.~ Charges*sh0uld be*made against Allotment 6-2502-10-
+<@001. hrs been granted 1jT0P 33¢??? iPP1'¢W=*1 for "°1'3<
+under F1'oj'e~:t I1§iULTF»'\.—iT11——-1111—1111——!i11111
+15. All travel shall be documented, with transoortation stubs,
+hotel bills, eta. Supplies shall be of the expendable type ﬁ6u&Ssary t6 tha conduct oi"the1progrs:nfand.*hence*not considered as i
+ﬁroject property.
+i if ii 4"
+"APPRQVED€
+Distrloutionz i
+. Criginal my - TSS/CD
+
+## MKUltra-Recipts.pdf - Page 96
+
+IllllllllllllllllllIlllllllllggllllll!5s§" .
+_ WWI W ,_" , It is proposed that the undersigned perform certain special
+Ear 1->5;-:1Tphysiol@:;.:~' dv-fang the periwd I0s=tQb§1' I, , '
+servlces Ln pharmacolod
+1955 to 1 October 1956. These services will involve the review and _ _ T7
+evaluation of selected topics and procgdures of interést. It is
+Westi5ated'that the following funds_will be requirgd to carry out' ———
+this program:
+1!! I I I I I I I I I I I I {I II I I ,
+S'\1ppli8S_8,F1{i"-i _ '§1 &IJ_i I I '0 325 YT I1 I I l
+Ylaterl 44 i
+Travel. iﬁTi1"51'i'iTi'Trﬁ'a Ti . . . . . . . . . . . . . . 500.00I
+TOTALjiTi; $3300.00
+bug
+9,5,1 Vi
+
+## MKUltra-Recipts.pdf - Page 97
+
+'A. ~-.-. PW
+» i I %¢. if,
+rt'Y
+bxPi
+
+## MKUltra-Recipts.pdf - Page 98
+
+'!'mru\
+M/J7 Am /3'
+-442;
+r-.'\¢u'-.4n
+
+## project mk-ultra[15545700].pdf - Page 1
+
+Doc ID: 6613524 0
+(U) Project' MK-ULTRA -
+_ Rbizigr
+From Intellipedia i _
+(U) This page has not been edited since October 02 2011. Please help \vith completing or iipdzitimjlvj,
+the page ifit has intelligence value _
+(U) See IntelIipedia:Abandoned pages for more information about pages with this banner.
+(U) See the discussion 'page for more information about the status oi this page.
+Sec the Wildpedia article Project MK ULF RA or MKULTRA was the code name for a covert CIA iniiid-coiitrol and chemical interrogation .. ; 1 p 0' ; M1(U1_]']M .
+research program, nin by the Ofﬁce of Scientiﬁc Intelligence. This ofﬁcial U.S. government program began in the _
+early 1950s,-continuin at least throuvh th I 1960 d
+g C, c ate s, an it supposedly used United States citizens as unwitting test
+[1l[2][3l
+subjects. -The published evidence indicates that Project MK-ULTRA involved the surre titious use ofmaii —~-————--3-—— p y :' '5"-7'-'_.:_'l-' " 11*'--/'"1 ' " _ ""=- '
+types ot drugs, as well as other methods, to manipulate individualrneiital states and to alter brain function. -
+Project MK-ULTRA was' ﬁrst brought to wide public attention in 1975 by the U .S. Congress, througliinvcstigations
+by the Church Committee, and by a presidential commission known as the Rockefeller Commission. Investigative
+efforts were hampered by-the fact that CIA Direct0rRichard I-Ielmsordercd all MK-ULTRA tiles destroyed in '
+I973; the Church Committee' and Rockefeller Coinniission investigations relied on the swoni testimony of direct
+participants and on the relatively small number of documents that survived Helms' destruction order.l4l
+Although the CIA insists that MK-ULTRA-type experiments have been abandoned, 14-year CIA veteran Victor
+Marchctti has stated in various interviews that the CIA routinclyconducts disinformation campaigns and that CIA
+mind control research continued. In a 1977 interview, Marchetti speciﬁcally called the CIA claim that MK-ULTRA
+was abandoned a "cover story. "[5][6]
+On the Senate tloor in 1977, Senator Ted Kennedy said:
+The Deputy Director of the CIA revealed that over thirty universities and institutions were involved in an
+"extensive testing and experimentation" progiam which included covert drug tests on unwitting citizens "at all 5'-
+-1unqu_n|a-layqn-n—iulQ'-1|-1
+social levels, high and low, native Americans and foreign." Several of these tests involved the administration C°"°' 'hm f°I MKUPTRA PT°P°5"'
+of LSD to "i.uiwitting subjects in social situations." At least one death, that of Dr. Frank Olson, resulted from _
+these activities. The Agency itself acknowledged Lliat these tesm made little scientiﬁc sense. The agents doing the iiioniloring were not qualilied
+scientiﬁc observerslm
+To this day most speciﬁc infomiation regarding Project MKULTRA remains highly classiﬁed.[8]
+Contents
+I 1 Title and origins
+I 2 Goals
+I 3 Budget
+I 4 Experiments
+I 4.1 LSD _
+I 4.2 Other drugs
+I 4.3 Hypnosis and Magic
+I 4.4 Canadian experiments
+_I 5 Revelation
+I 6 U.S. General Accounting Ollice Report
+7 Legal issues involving infomied consent
+I 8 Extent of participation
+I 9 Notable subjects
+I 10 Incidents
+I 10.1 Dr.'Frank Olson Commits Suicide
+I 11 See also -
+I 12 Web links
+I 13 References
+Title and origins
+The project's intentionally oblique CIA ciyptonym is made .up of the digraph MK. meaning that tlic project was sponsored by the agency's Technical Scn/ices'
+ofg -
+4/3/201s 8:13 AM
+
+## project mk-ultra[15545700].pdf - Page 2
+
+Project MK-ULTRA - lntcllipedia
+' C O =1;/J
+Qt-"I In
+I *4: ll man K
+étlz
+llgj 5|
+net.
+Dt. Sidney Gotllieb approved ofan MKULTRA
+subproject on [SD in this lune 9. I953 letter.
+Division, followed by the word UL'!'R/I (which had previously been used to designate the most secret
+classiﬁcation ofWorld War ll intelligence). Other related cryptonyms include MK-NAOMI and
+MK-DELTA.
+A precursorofthe MK-ULTRA program began in I945 when the Joint Intelligence Objectives Agency was
+established and given direct responsibility for Operation Paperclip. Openrtion Papcrclip was a program to
+recnrit former Nazi scientists. Some of these scientists studied torture and brainwashing, and several had just
+been identiﬁed and prosecuted as war criminals during the Nuremberg Trialsplllol
+Several secret U.S. govemment projects grew out of Operation Papcrclip. These projccu included Project
+CllA'|'l'ER (established I947), and Project BLUEBIRD (established I950). which was later renamed to
+Project ARTICHOKE in l95l. Their purpose was to study mind-control. interrogation, behavior
+modiﬁcation and related topics.
+Headed by Dr. Sidney Gottlieb, the MK-ULTRA project was staned on
+the order ofClA director Allen Dulles on April ts, r9s3,l"l largely in I
+response to Soviet, Chinese, and North Korean use ofmind-control
+techniques on U.S. prisoners ofwar in Korcadm The CIA wanted to
+use similar methods on their own captives. The CIA was also interested
+in being able to manipulate foreign leaders with such techniques,' ml turd
+would later invent several schemes to drug Fidel Castro.
+Forpcriments were oﬂen conducted without the subjects' knowledge or
+cunsentlm In some cases, academic researchers being funded through
+grants from CIA front organizations were unaware that their work was
+being used for these purposes.ll5l
+ln l964, the project was renamed MK-SEARCH. The project attempted to produce a perfect truth drug for use in
+Sidney Gonna'
+interrogating suspected Soviet spies during the Cold War. and generally to explore any other possibilities ofmind control.
+Another MK-ULTRA elTort, Subproject S4, was the Navy's top secret "Perfect Concussion" program. which used sub-aural frequency blasts to erase
+mt-mory.l l 5'
+Because most MK-ULTRA records were deliberately destroyed in I973 by order ofthen CIA Director Richard Helms. it has been difﬁcult. ifnot impossible,
+for investigators to gain a complete understanding ofthe more than l50 individually funded research sub-projects sponsored by MK-ULTRA and related CIA
+prognrrns.[m
+Goals
+The Agency poured millions ofdollars into studies probing dozens ofmcthods ofinﬂucncing and controlling the mind. One I955 MK-ULTRA document gives
+an indication ofthe size and range ofthe effort; this document refers to the study ofan assortment ofmind-altering substances described as follows: U5]
+l. Substances which will promote illogical thinking and impulsiveness to the point where the recipient would be discredited in public.
+2. Substances which increase the eﬂiciency of mentation and perception.
+3. Materials which will prevent or counteract the intoxicating effect ofalcohol.
+4. Mater-iaLs which will promote the intoxicating effect ofalcohol.
+5. Materials which will produce the signs and symptoms of recognized diseases in a reversible way so that they may be used for malingering.
+CKC.
+6. Materials which will render the induction ofhypnosis easier or otherwise enhance its usefulness.
+7. Substances which will enhance the ability of individuals to withstand privation, torture and coercion during interrogation and so-called
+"bnrin-washing".
+8. Materials and physical methods which will produce amnesia for events preceding and during their use.
+9. Physical methods ofproducing shock and confusion over extended periods of time and capable ofsurreptitiuus use.
+I0. Substances which produce physical disablement such as paralysis ofthe legs, acute anemia, etc.
+I l. Substances which will produce "pure" euphoria with no subsequent let-down.
+I2. Substances which alter personality structure in such a way that the tcndcncy ofthe recipient to become dependent upon another person is
+enhanced.
+I3. A material which will cause mental conftrsion ofsuch a type that the individual under its inﬂuence will ﬁnd it diﬂicult to maintain a
+fabrication under questioning.
+I4 Substances which will lower the ambition and general working efficiency ofmen when administered in undetectable amounts.
+l5 Substances which promote weakness or distortion ofthe eyesight or hearing faculties, preferably without permanent eﬂ'ecLs,
+I6. A knockout pill which cart surreptitiously he administered in drinks, food. cigarettes. as an aerosol. ctc., which will be safe to use, provide a
+maximum ofarnnesia, and be suitable for use by agent types on an trd hoe basis.
+l7 A material which can be srrrrcptitiotrsly administered by the above routes and which in very small amounts will make it impossible for a man
+to perfon-n any physical activity whatsoever.
+Historians have asserted that creating tr "Manchurian Candidate" subject through "mind control" techniques was a goal ofMK-ULTRA and related CIA
+projectslm
+2of8 4/3/20l8 8:l3 AM
+
+## project mk-ultra[15545700].pdf - Page 3
+
+Approved for Release" 2018/12/12 C06760269 Project MK-ULTRA - lntellipcdia ....,..............,,c...........c...t1t.n..guww/rnucx.pnp:utrc=r'roject_M|&-uLl...
+Budget
+A secretive arrangement gmnted the MK-ULTRA program a percentage ofthe CIA budget. The MK-ULTRA director was granted six percent ofthe CIA 'operating budget in I953, without oversight or accounting.[2°l An estimated USSIOm or more was spent.l2']
+Experiments
+CIA documents suggest that "chemical, biological and nrdiological" means we_re investigated for the purpose ofmind conn-_ol as part of MK-ULTRA.ml
+LSI)
+Early efforts focused on LSD, which later came to dominate many ofMK-UI.TRA's progmms. lixperiments included administering LSD to CIA employees, military personnel, doctors. other govemment agents, prostitutes, mentally ill patients, and members of the general public in order to study their reactions. LSD and other drugs were usually administered without the subject's knowledge or informed consent, a violation of the Nuremberg Code that the U.S. agreed to follow aﬂer World War II.
+ElTot1s to "recruit" subjects were oﬁen illegal, even discounting the fact that drugs were being administered (tltough actual use ofLSD, for example. was legal in the United States until October 6, I966). In Operation Midnight Climax, the CIA set up several brothels to obtain a selection ofmen who would be too embamssed to talk about the e\'enLs. The men were dosed with LSD, the brothels were equipped with oaevway mi.rrors, and the sessions were ﬁlmed for later
+viewing and study.m]
+Some subjects' participation was consensual, and in many ofthese cases, the subjects appeared to be singled out foreven more extreme experiments. ln one case, volunteers were given LSD for 77 consecutive daysml '
+LSD was evenmally dismissed by MK-ULTRA's researchers as too unpredictable in its results,lZ5] Although useful infommtion was sometimes obtained through questioning subjects on LSD, not uncommonly the most marked elTect would be the subject's absolute and utter certainty Lhat they were able to withstand any fonn ofinterrogation attempt, even physical torture.
+Other drugs
+Another technique investigated was connecting a barbiturate IV into one ann and an amphetamine IV into the other-J26] The barbiturates were released into the subject ﬁrst. and as soon as I.he subject began to fall asleep, the amphetamines were released. The subject would begin babbling incoherently at this point, and it was sometimes possible to ask questions and get useful answers. Other experiments involved heroin, morphine, temalepam (used under code name MK-SEARCH), mcscalinc, psilocybin, scopolamine, marijuana, alcohol, sodium pentothal.l27] and crgine (in Subproject 22).
+Ilypnosis and Magic '
+Declassiﬁed MK-ULTRA documents indicate hypnosis was studied in the early I9S0s. Experimental goals included: the creation of"hypnotical|y induced anxieties," "hypnotically increasing ability to leam and recall complex written matter." studying hypnosis and polygraph examinations. "hypnotically increasing
+ability to observe and recall complex arrangements ofphysical objects." and studying "relationship ofpersonaliry to susceptibility to hypnosisfml
+In addition, the CIA used the services ofAmer-ican magician John Mulholland to write two manuals on sleight ofhand and ttndercover communication techniques. In I973, vimrally all documents related to MKULTRA were desooyed. MulholIand's manuals were thought to be among them until a single surviving copy of each was discovered in the agency's archives around 2008-2009. Bob Wallace and H. Keith Melton published "Thu Oﬂieial CIA Mmrrrul 15/ 'I7'icIrur_v uml Duct:/rrin/r" to chronicle this research into the use of illusion for the agency's ﬁeld agcntsm]
+Canadian experiments
+The experiments were exponed to Canada when the CIA recnrited Scottish psychiatrist Donald Ewen Cameron, creator of the "psychic driving" concept, which the CIA found particularly interesting. Cameron had been hoping to correct schizophrenia by erasing existing memories and reprogramming the psyche. He commuted from Albany, New York to Montreal every week to worlt at the Allan Memorial Institute ofMcGill University and was paid $69,000 from I957 to I964 to carry out MKULTRA experimenu there. In addition to LSD, Cameron also experimented with various paralytic d.rtrgs as well as elecooconvulsive therapy at thirty to forty times the nomral power. His "driving" experiments consisted ofputting subjects into drug-induced coma for weeks at a time (up to three months in one case) while playing tape loops of noise or simple repetitive statements. His experiments were typically canied out on patients who had
+entered the institute for minor problems such as anxiety disorders and postpartum depression, many ofwhom suffered permanently ﬁ-orn his aetionsml His
+treaurtents resulted in victims' incontinence, amnesia, forgetting how to r.alk, forgetting their parents, and thinking their interrogators were their parentsml His work was inspired and paralleled by the British psychiatrist Dr. William Sargant at St. Thomas' Hospital, London, and Belmont Hospital, Surrey. who_was also
+involved in the Intelligence Services and who experimented extensively on his patients without Lhcir consent. causing sirrtilar long-tenn damagepzl Dr. Cameron and Dr. Sargant are l.hc only two identiﬁed Canadian experimenters, but the MKULTRA ﬁle makes reference to many other unnamed physicians who
+were recruited by the ClA.l"""""'l """""n It was during this cm that Cameron became known worldwide as the ﬁrst chainnan of the World Psychiatric Association as well as president ofthe American and Canadian psychiatric associations. Cameron had also been a member ofthe Nuremberg medical tribunal in
+1946-1947.13"
+Revelation
+4/3/20I8 8:13 AM
+
+## project mk-ultra[15545700].pdf - Page 4
+
+Approved for Release" 2018/12/12 CO6760269 Pt'0jCCl MK-ULTRA - lntcllipedia ....p...,....-..-..p..o.a.|rrt~.----n.i\..5uwwmtuex.pnptttttt:-rrujt:t:t_tvtl\-Ul.I...
+In I973, CIA Director Richard Helms ordered all MK-ULTRA ﬁles destroyed. Pursuant to this order, most CIA documents regarding tlte project were destroyed, malting a full investigation of MK-ULTRA impossible.
+In December I974, The New Ilrrlr 77mc.r reponed that the CIA had conducted illegal domestic activities, including experiments on U.S. citizens. during the
+l960s. That repon prompted investigations by the U.S. Congress, in the form of the Church Cornmit-tee, and by a presidential commission known as the
+Rockefeller Commission that looked into domestic activities ofthe CIA, the FBI. and intelligence-related agencies ofthe military. In the summer of I975.
+congressional Church Cotrunittcc reports and tlte presidential Rockefeller Cotrtmission report revealed to the public for the ﬁrst time that tlte CIA attd the
+Department of Defense had conducted experiments on both unwitting and cognizant human subjects as pan ofan extensive program to inﬂuence and control
+human behavior through the use of psychoactive drugs such as LSD and mescaline at1d other chemical, biological, and psychological means. They also revealed that at least one subject had died allcr administration of LSD. Much of what the Church Corrtrnittec and the Rockefeller Commission learned about MKULTRA was contained in a report, prepared by the Inspector Genctal's olliee in I963, that had survived the destruction ofrecords ordered in I973.mi However, it
+contained little detail.
+The congressional committee investigating the CIA research, chaired by Senator Frank Church. concluded that "[p]rior consent was obviously not obtained from any ofthe subjects". 'I'hc comminec noted that the "experiments sponsored by these researchers call into question the decision by the agencies not to ﬁx guidelines for experiments."
+Fo|Iowi.rtg the recommendations ofthe Church Committee, President Gerald Ford in I976 issued the ﬁrst Executive Order on Intelligence Activities which. among other tltings, prohibited "experimentation with drugs on human subjects, except with the informed consent, in writing and wiutcsscd by a disinterested
+party, ofcach such human subject" and in accordance with the guidelines issued by the National Commission. Subsequent orders by Presidents Caner and Reagan expanded the directive to apply to any human experimentation.
+On the heels ofthe revelations about CIA experiments. similar stories surfaced regarding U.S. Anny experiments. In I975 the Secretary ofthe An-ny instructed
+the Anny Inspector General to conduct an investigation. Among the ﬁndings ofthe Inspector General was the existence ofa I953 memorandum penned by then
+Secretary of Defense Charles Erwin Wilson. Documents show that the CIA participated in at lent two ofDepanmcnt of Defense committees during I952.
+These committee ﬁndings led to the issuance ofthe "vlftlson Memo," which mandated—in accord with Nuremberg Code protocols—tltat only volunteers be used for experimental operations conducted in the U.S. armed forces. In response to the Inspector General's investigation, the Wilson Memo was declassiﬁed in
+August I975.
+With regard to drug testing within the Army, the Inspector General found that "the evidence clearly reﬂected that every possible medical consideration was observed by the professional investigators at the Medical Research Laboratories" However the Inspector General also found that the mandated requirements of Wilson's I953 memorandum had been only partially adhered to: he concluded that the "volunteers were not fully infonned, as required, prior to thei.r
+participation; and the methods ofprocuring their services. in many cases, appeared not to have been in accord with the intent ofDepartment ofthe Array -
+policies goveming use ofvolunteers in research." _
+Other branches of the U.S. armed forces, the Air Force for example, were found not to have adhered to Wilson Memo stipulations regarding voluntary dntg testtng.
+In I977, during a hearing held by the Senate Select Committee on Intelligence, to look further into MKULTRA, Admiral Stansﬁeld Tumer, then Director of
+Central Intelligence, revealed that the CIA had found a set ofrecords. consisting ofabout 20,000 pagcs,[35) that had survived the I973 destruction orders, due to
+having been stored at a records center not usually used for such doeumcntsim These ﬁles dealt with the ﬁnancing ofMKULTRA projects, and as such
+contained few deutils ofthose projects. but much more was lcamed from them than from the Inspector Genetal's I963 repon.
+In Canada, the issue took much longer to surface, becoming widely known in I984 on a Canadian Broadcasting Corporation news show, The Fiftlt E.\'II|1t:. It was leamed that not only had the CIA ﬁtndcd Dr. Carneron's efforts, but perhaps even more shockingly, the Canadian govemmcnt was fully aware ofthis, and had
+later provided another $500,000 in funding to continue the experiments. This revelation largely derailed efforts by the victims to sue the CIA as their U,S.
+counterparts had. and the Canadian govcmment eventually settled out of court for Sl00,000 to each ofthe I27 victims. None of Dr. Cameron's personal records
+ofhis involvement with MKULTRA sunrivc, since his family destroyed them alter his death from a heart anock while mountain climbing in I967.im
+U.S. General Accounting Office Report "
+The U.S. General Accounting Offee issued a repon on September 28, I994, which stated that between I940 and I974, DOD artd other national security
+agencies studied thousands ofhuman subjects in tests and experiments involving hazardous substances. The quote from the study:
+Working with the CIA, the Department ofDcfcnse gave hallucinogenic dntgs to thousands of"volunteer" soldiers in the I950s and 19605. In
+addition to LSD. the Anny also tested quinuclidinyl benzilate, a hallucinogen code-named BZ. (Note 37) Many ofthese tests were conducted under
+the so-called MKULTRA program, established to counter perceived Soviet and Chinese advances in brainwashing techniques. Between I953 and
+I964, thc program consisted of I49 projects involving drug testing and other studies on unwitting human subjects...p7]
+Legal issues involving informed consent
+The revelations about the CIA and the Army prompted a number ofsubjects or their survivors to ﬁle lawsuits against the federal government for conducting
+illegal experiments. Although the govcmment aggressively. and sometimes successfully, sought to avoid legal liability. several plaintiffs did receive
+compensation through court order, out-'of-coun settlement, or acts ofCongress. Fmnlr Olson's family received $750,000 by a special act ofCongress, and both
+President Ford and CIA director William Colby met with Olson's family to publicly apologize.
+Previously, the CIA and the Army had actively and successfully sought to withhold incriminating infomtation, even as they secretly provided compensation to
+the families. One subject ofArmy drug experimentation, James Stanley, an Array sergeant, brought an important, albeit unsuccessful, suit. The govemment
+argued that Stanley was bar-red from suing under a legal doctr-ine—known as the Fercs docu-inc, aller a I950 Supreme Court case. Ft:rc.\' \-. Uttita<lStnte.t—that
+prohibits members ofthe Armed Forces from suing the govcmmenr for any hamts that were inﬂicted "incident to service." In I987, the Supreme Coun alﬁnned
+4/3/2012 2; 13 'AM
+
+## project mk-ultra[15545700].pdf - Page 5
+
+this defense in a 5-4 decision that dismissed Stanley's caseml The majority argued that "a test for liability that depends on the extent to which panicular suits
+would call into question military discipline and decision making would itselfrequirejudicial inquiry into. and hence intrusion upon. military matters." ln
+dissent. Justice William Brennan argued that the nced to preserve military discipline should not protect the govcmment from liability and punishment for
+serious violations ofconstitutional rights:
+The medical trials at Nuremberg in I947 deeply impressed upon the world that experimentation with uaknowi.|1g human subjects is morally and
+legally unacceptable. The United States Military Tribunal established the Nuremberg Code as a standard against which tojudge German scientists
+who experimented with human subjects... . [l]n deﬁance nflhis principle, military intelligence oﬂicials began surre-ptitictusly testing chemical
+and biological materials, including LSD. .
+Justice Sandra Day O'Connor, writing a separate dissent, stated:
+Nojudicially craﬁed rule should insulate from liability the involuntary and unknowing human experimentation alleged to have occurred in this
+case. Indeed. as Justice Brennan observes, the United States played an instrumental role in the criminal prosecution of Nazi ollicinls who
+experimented with human subjects during the Second World War. and the standards that the Nuremberg Military Tribunals developed to judge the
+behavior ofthe defendants stated that the 'voltt.t'ttary consent ofthe human subject is absolutely essential to satisfy moral. ethical. and legal
+concepts.' lfthis principle is violated, the very least that society can do is to see that the victims are compensated, as best they can be. by the
+perpetrators.
+This is the only Supreme Coun case to address the application ofthe Nuremberg Codc to experimentation sponsored by the U.S. government. And while the
+suit was unsuccessful. dissenting opinions put the Army—and by association the entire govcmment—on notice that use ofindividuals without their consent is
+unacceptable. The limited application ofthe Nuremberg Code in U.S. couns does not detntct from the power ofthe principles it espouses. especially in light of stories of failure to follow these principles that appeared in the media and professional liremntre during the I960: and l970s and the policies eventually adopted in the mid-19705.
+In another law suit. Wayne Ritchie, a fonncr United States Marshall, alleged the CIA laced his food or drink with LSD at a I957 Christmas party. While the
+govemment admitted it was. at that time. drugging people Without their consent, U.S. District Judge Marilyn Hall Patel found Ritchie could not prove he was
+one of the victims of MKULTRA and dismissed the case in 2007.09]
+Extent of participation
+Forty-four American colleges or universities, fifteen research foundations or chemical or phamtaceutical companies artd the like including Sandoz (currently
+Novartis) and Eli Lilly St C0,, twelve hospitals or clinics (in addition to those associated with universities), and three prisons are known to have participated in
+Mt<ut.TaA.l'°""'l
+Notable subjects
+A considerable amount ofcredible circumstantial evidence suggests that Theodore Kaczynski. also known as the Unabomber, panieipated in CIA-sponsored
+MK-ULTRA experiments conducted at Harvard University from the fall of I959 through the spring of i962. J42] During World War ll, Henry Murnty, the lead
+researcher in the Harvard experiments, served with the Oﬂice of Strategic Services (OSS), which was a forerunner ofthe CIA. Manny applied for a grant
+funded by the United States Navy, and his Harvard stress experiments strongly resembled those n.tn by the OSS.ml Beginning at the age ofsixteen, Kaczynski panicipated along with twenty-one other undergraduate sntdents in the Harvard experiments, which have been described as "disntrbing" and "ethically
+indefensible."[ul['ul
+Merry Prankster Ken Kesey. author of One Flew (Iver the Cm-I<tm'.t i\'u.\'l, volunteered for M K-ULTRA experiments while he was a student at Stanford
+University. Kesey's ingestion of LSD during these experiments led directly to his widespread promotion of the drug and the subsequent development of hippie
+culture.l"l Candy Jones. American fashion model and radio host. claimed to have been a victim ofmind control in the '60s.l'"l
+lnfarnous lrish mob boss James "Whitey" Bulger volunteered for testing while in prison.l"l
+Robe11 Htmter is an American lyricist. singer-songwriter. translator, and poct, best knovm for his association with Jerry Garcia and the Grateful Dead. Hunter
+was an early volunteer test subject for the MKULTRA progntm. He was paid to talte LSD. psilocybin, and mescalinc and rcpon on his experiences. which were
+creatively fonnative for him:
+Sit back picture yourself swooping up a shell of purple with foam crests of crystal drops soﬂ nigh they fall unto the sea of moming creepvery-soﬁly mist...and then sort ofcaseadc tinkley-bcll like (must l take you by the hand. every so slowly type) and then conglomerate suddenly into
+a peal ofsilver vibrant uneomprchendingly, blood singingly, joyously rcsoundingbells....By my faith if this be insanity, then for the love of God
+permit me to remain insane. (McNa|ly 42-43)l'7l
+Incidents
+l)r. I-'rank Olson Commits Suicide
+(U) Early on 28 November i953. Frank Olson. a US Anny civilian biochemist and biological weapons researcher. jumped to his death from a hotel room in
+New York City aﬁcr suffering n severe reaction to LSD that he consumed as part ofa CIA-led research program on the intelligence applications ofdrugs and
+other bchaviorial modiﬁcation techniques. The progmm. codenamed MKULTRA, was disclosed in I975 during the Rockefeller Commission and Church
+Committee investigations ofdubious Agency activities and became one of the most notorious episodes publicized during ClA's "time of troubles" in the
+mid- l970s. Over the years, the revelations about Olson's death have generated many unfounded conspiracy tales that still circulate in publications and movies
+4/3/20l8 8:l3 AM

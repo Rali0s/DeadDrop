@@ -8,3 +8,20 @@ coverage
 npm-debug.log*
 artifacts
 cache
+
+# Sensitive runtime/deploy artifacts
+farcaster.json
+relay-waitlist.csv
+**/waitlist*.csv
+**/waitlist*.json
+apps/api/data/
+apps/contracts/deployments/
+**/contract-manifest*.json
+**/.env.local
+**/.env.development
+**/.env.production
+**/.env.preprod
+*.pem
+*.key
+*.p12
+*.jks

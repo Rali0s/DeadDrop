@@ -5,9 +5,24 @@
   "scripts": {
     "build": "hardhat compile",
     "test": "hardhat test",
+    "test:gas": "REPORT_GAS=true hardhat test",
     "lint": "solhint 'contracts/**/*.sol'",
+    "prepare:pilot-briefs": "node scripts/preparePilotBriefs.js",
+    "manifest:export": "node scripts/exportContractManifest.js",
+    "security:slither": "slither . --filter-paths \"node_modules|test|artifacts|cache\"",
+    "security:mythril": "myth analyze contracts/DailyBriefNFT.sol --solv 0.8.24",
+    "security:gates": "npm run lint && npm run test && npm run test:gas",
     "check": "npm run lint && npm run test",
-    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia"
+    "preflight:sepolia:admin": "hardhat run scripts/preflightSepoliaAdmin.js --network sepolia",
+    "deploy:sepolia:admin-bundle": "hardhat run scripts/deploySepoliaAdminBundle.js --network sepolia",
+    "deploy:sepolia:admin-bundle:live-usdc": "REQUIRE_LIVE_USDC=true hardhat run scripts/deploySepoliaAdminBundle.js --network sepolia",
+    "verify:configure:manifest:sepolia": "hardhat run scripts/verifyConfigureManifest.js --network sepolia",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "deploy:nft:sepolia": "hardhat run scripts/deployDailyBriefNFT.js --network sepolia",
+    "configure:briefs:sepolia": "hardhat run scripts/configureBriefs.js --network sepolia",
+    "deploy:base:sepolia": "hardhat run scripts/deploy.js --network baseSepolia",
+    "deploy:nft:base:sepolia": "hardhat run scripts/deployDailyBriefNFT.js --network baseSepolia",
+    "configure:briefs:base:sepolia": "hardhat run scripts/configureBriefs.js --network baseSepolia"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
@@ -15,5 +30,9 @@
     "dotenv": "^16.4.7",
     "hardhat": "^2.22.17",
     "solhint": "^5.0.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^5.4.0",
+    "@openzeppelin/hardhat-upgrades": "^3.9.1"
   }
 }

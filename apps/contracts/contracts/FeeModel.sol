@@ -1,10 +1,13 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
-import {AccessControl} from "@openzeppelin/contracts/access/AccessControl.sol";
+import {Initializable} from "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
+import {UUPSUpgradeable} from "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol";
+import {AccessControlUpgradeable} from "@openzeppelin/contracts-upgradeable/access/AccessControlUpgradeable.sol";
 
-contract FeeModel is AccessControl {
+contract FeeModel is Initializable, UUPSUpgradeable, AccessControlUpgradeable {
     bytes32 public constant PARAM_ADMIN_ROLE = keccak256("PARAM_ADMIN_ROLE");
+    bytes32 public constant UPGRADER_ROLE = keccak256("UPGRADER_ROLE");
 
     uint256 public constant BPS = 10_000;
 
@@ -15,9 +18,24 @@ contract FeeModel is AccessControl {
 
     event FeeParamsUpdated(uint256 baseFeeUsdc6, uint256 floorFeeUsdc6, uint256 discountStepUsdc6, uint256 relPerTier);
 
-    constructor(address admin, uint256 _baseFeeUsdc6, uint256 _floorFeeUsdc6, uint256 _discountStepUsdc6, uint256 _relPerTier) {
+    /// @custom:oz-upgrades-unsafe-allow constructor
+    constructor() {
+        _disableInitializers();
+    }
+
+    function initialize(
+        address admin,
+        uint256 _baseFeeUsdc6,
+        uint256 _floorFeeUsdc6,
+        uint256 _discountStepUsdc6,
+        uint256 _relPerTier
+    ) public initializer {
+        __AccessControl_init();
+        __UUPSUpgradeable_init();
+
         _grantRole(DEFAULT_ADMIN_ROLE, admin);
         _grantRole(PARAM_ADMIN_ROLE, admin);
+        _grantRole(UPGRADER_ROLE, admin);
         _setParams(_baseFeeUsdc6, _floorFeeUsdc6, _discountStepUsdc6, _relPerTier);
     }
 
@@ -58,4 +76,6 @@ contract FeeModel is AccessControl {
 
         emit FeeParamsUpdated(_baseFeeUsdc6, _floorFeeUsdc6, _discountStepUsdc6, _relPerTier);
     }
+
+    function _authorizeUpgrade(address newImplementation) internal override onlyRole(UPGRADER_ROLE) {}
 }

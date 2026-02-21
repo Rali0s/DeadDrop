@@ -1,15 +1,15 @@
 # Railway Host Upload Guide
 
-This repo is a monorepo and should be deployed to Railway as two services:
+Preferred for Railway free/single-domain constraints: deploy as one service:
 
-- `relay-api` (Node/Express)
-- `relay-web` (Vite static preview server)
+- `relay-api` only, serving API + static web from same host.
 
-## 1. Create Railway services
+Optional: two-service split is supported, but not required.
+
+## 1. Create Railway service
 
 1. In Railway, create a new project from this GitHub repo.
-2. Add service `relay-api`.
-3. Add service `relay-web`.
+2. Add one service `relay-api`.
 
 ## 2. Configure Build/Start commands
 
@@ -20,24 +20,13 @@ Use template: `/deploy/railway/api.railway.json`
 Equivalent commands:
 
 - Build command:
-  - `npm ci && npm run build --workspace=@deaddrop/api`
+  - `npm ci && npm run build --workspace=@deaddrop/web && npm run build --workspace=@deaddrop/api`
 - Start command:
   - `npm run start --workspace=@deaddrop/api`
 
-### relay-web
-
-Use template: `/deploy/railway/web.railway.json`
-
-Equivalent commands:
-
-- Build command:
-  - `npm ci && npm run build --workspace=@deaddrop/web`
-- Start command:
-  - `npm run start --workspace=@deaddrop/web`
-
 ## 3. Set environment variables
 
-### relay-api env
+### relay-api env (single-domain)
 
 Copy from:
 - `/apps/api/.env.preprod.example` for preprod
@@ -50,38 +39,27 @@ Required in production:
 - `MINIAPP_SPLASH_URL`
 - `QUICK_AUTH_DOMAIN`
 - `REQUIRE_QUICK_AUTH=true`
+- `CORS_ORIGINS`
+- `ADMIN_API_KEY`
+- `WAITLIST_STORAGE_PATH`
 - `FARCASTER_HEADER`
 - `FARCASTER_PAYLOAD`
 - `FARCASTER_SIGNATURE`
 
-### relay-web env
-
-Copy from:
-- `/apps/web/.env.preprod.example` for preprod
-- `/apps/web/.env.production.example` for prod
-
-Required in production:
-- `VITE_API_URL`
-- `VITE_MINIAPP_URL`
-- `VITE_MINIAPP_IMAGE_URL`
-- `VITE_MINIAPP_SPLASH_URL`
-
 ## 4. Domain mapping
 
-Suggested:
-- API: `api.relay.yourdomain.com`
-- Web: `app.relay.yourdomain.com`
+Use one domain for everything (example):
+- `<YOUR_RAILWAY_DOMAIN>`
 
-Then update all env URLs to match these domains.
-
-## 5. Verify Farcaster manifest and web embed
+## 5. Verify Farcaster manifest and web
 
 After deploy, check:
-- `https://api.relay.yourdomain.com/.well-known/farcaster.json`
-- `https://api.relay.yourdomain.com/.well-known/miniapp.json`
+- `https://<YOUR_RAILWAY_DOMAIN>/.well-known/farcaster.json`
+- `https://<YOUR_RAILWAY_DOMAIN>/.well-known/miniapp.json`
 
 And open:
-- `https://app.relay.yourdomain.com/?miniApp=true`
+- `https://<YOUR_RAILWAY_DOMAIN>/?miniApp=true`
+- `https://<YOUR_RAILWAY_DOMAIN>/` (must serve web, not `Cannot GET /`)
 
 ## 6. Final preprod checks
 
@@ -89,3 +67,19 @@ And open:
 - Quick Auth works and unauthenticated API calls are rejected in prod mode.
 - `farcaster.json` has real account association values.
 - Mini app image and splash URLs return real assets.
+
+## 7. Waitlist ops probes
+
+Run these after each production rollout:
+
+```bash
+curl https://<YOUR_APP_DOMAIN>/health
+curl https://<YOUR_APP_DOMAIN>/v1/waitlist/stats
+curl -H "x-admin-key: $ADMIN_API_KEY" https://<YOUR_APP_DOMAIN>/v1/admin/waitlist
+curl -L -H "x-admin-key: $ADMIN_API_KEY" https://<YOUR_APP_DOMAIN>/v1/admin/waitlist.csv -o relay-waitlist.csv
+```
+
+Expected:
+- `/health` returns `{ "ok": true }`
+- `/v1/waitlist/stats` returns JSON with `signupCount` and `releaseDate`
+- admin waitlist JSON/CSV return `200` (not `Cannot GET ...`, not `Admin API not configured`)

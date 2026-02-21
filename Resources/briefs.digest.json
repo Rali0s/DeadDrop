@@ -1,0 +1,655 @@
+{
+  "generatedAt": "2026-02-20T13:55:32Z",
+  "sources": {
+    "jsonFiles": [
+      "briefs.json",
+      "briefs.pilot125.json",
+      "briefs.pilot41.json",
+      "briefs.pre-normalize.bak.json"
+    ],
+    "pdfFiles": [
+      "Cold War Daily Briefs.pdf",
+      "Cold War Daily Briefs Expanded.pdf"
+    ],
+    "templateSvg": "NFT_STANDARD_TEMPLATE.svg"
+  },
+  "stats": {
+    "jsonEntryCount": 250,
+    "pdfEntryCount": 64,
+    "mergedCount": 42,
+    "duplicateIdsResolved": 272,
+    "duplicateQuoteCount": 1
+  },
+  "items": [
+    {
+      "id": "cw-ames-careerist-sham",
+      "date": "2026-02-19",
+      "title": "The Careerist Spy",
+      "lesson": "Aldrich Ames spied for money rather than ideology. His case showed how personal greed and career frustrations can lead an insider to betray everything, causing deadly consequences for fellow agents.",
+      "quote": "There was no ideology. I’m simply a man who had financial difficulties and found a way out.",
+      "source": "Aldrich Ames",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-andropov-cocaine",
+      "date": "2026-02-19",
+      "title": "The Addiction of Disinformation",
+      "lesson": "Disinformation fundamentally alters the perception of those who consume it on a daily basis, creating a psychological dependency.",
+      "quote": "Disinformation is like cocaine—sniff once or twice, it may not change your life. If you use it every day, though, it will make you an addict—a different man.",
+      "source": "Yuri Andropov",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-bezmenov-subversion",
+      "date": "2026-02-19",
+      "title": "The Highest Art of Warfare",
+      "lesson": "True subversion aims to screw up the enemy's perception of reality so they no longer recognize the threat.",
+      "quote": "The highest art of warfare is not to fight at all but to subvert anything of value in the country of your enemy until such time that the perception of reality of your enemy is screwed up to such an extent that he does not perceive you as an enemy.",
+      "source": "Yuri Bezmenov",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-colby-media",
+      "date": "2026-02-19",
+      "title": "Information Control",
+      "lesson": "Intelligence agencies must be mindful of their relationship with the media to ensure national security is not compromised by leaks or sensationalism.",
+      "quote": "We in the intelligence community must recognize that the media will not fight our wars for us. We must achieve information control for the sake of national security.",
+      "source": "William Colby",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-fact-acoustic-kitty",
+      "date": "2026-02-19",
+      "title": "Operation Acoustic Kitty",
+      "lesson": "Extreme ideas were not off-limits during the Cold War; even training a cat for espionage seemed viable with enough resources.",
+      "quote": "In the 1960s, the CIA attempted to implant a listening device in a cat to surveil Soviet targets—a bold plan that ended when the cat wandered into traffic on its first mission.",
+      "source": "CIA Technical Records",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-fact-bulgarian-umbrella",
+      "date": "2026-02-19",
+      "title": "The Bulgarian Umbrella",
+      "lesson": "A seemingly ordinary object can be a deadly weapon. In 1978, Bulgarian dissident Georgi Markov was assassinated via a modified umbrella that injected a ricin poison pellet – a textbook example of clandestine tradecraft.",
+      "quote": "The KGB and its proxies could be very creative; even an umbrella can have a hidden sting.",
+      "source": "Mitrokhin Archive",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-fact-dog-doo",
+      "date": "2026-02-19",
+      "title": "The CIA’s Disguise in the Dung",
+      "lesson": "The CIA developed a transmitter camouflaged as animal feces (T-1151) for downed pilots to mark their location. Disguise in espionage can extend even to the most unremarkable objects.",
+      "quote": "Who would pick up poo? We counted on 'no one' as the answer – perfect concealment.",
+      "source": "CIA Technology Exhibit",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-fact-fialka-rotors",
+      "date": "2026-02-19",
+      "title": "The Unbreakable Cipher Machine",
+      "lesson": "The Soviet Fialka cipher machine, with its 10 rotors and innovative design, was a closely guarded cryptographic tool. Its security proved formidable against Western cryptanalysts for years.",
+      "quote": "It was more complex than Enigma – a cipher system the West struggled to penetrate.",
+      "source": "NSA Cryptologic History",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-fact-lipstick-pistol",
+      "date": "2026-02-19",
+      "title": "The Kiss of Death",
+      "lesson": "The KGB issued operatives a single-shot pistol disguised as a tube of lipstick, demonstrating the ingenious and deceptive weaponry employed in covert operations.",
+      "quote": "They called it the 'kiss of death' – a tiny pistol that could be hidden in a purse.",
+      "source": "KGB Museum",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-fact-spy-dust",
+      "date": "2026-02-19",
+      "title": "The Mysterious Spy Dust",
+      "lesson": "The KGB used 'spy dust' (powdered substances like NPPD) to mark targets without their knowledge, enabling surveillance teams to track their movements via UV light. Even in the absence of electronic trackers, chemical tags could betray a target’s presence.",
+      "quote": "They could tell where you’d been – you left footprints visible only to KGB lamps.",
+      "source": "U.S. State Department Brief (1975)",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-fact-the-thing",
+      "date": "2026-02-19",
+      "title": "The Great Seal Bug",
+      "lesson": "Surveillance devices can be ingeniously concealed in diplomatic gifts, remaining active for years without detection.",
+      "quote": "Soviet schoolchildren presented a carved US Seal to the American Ambassador in 1945, unaware it contained \\\"The Thing\\\"—a covert listening device that needed no power source and ran for seven years.",
+      "source": "CIA Museum Archive",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-hanssen-no-guns",
+      "date": "2026-02-19",
+      "title": "The Lure of Insider Access",
+      "lesson": "A spy with access can do more damage with a file cabinet than a commando with a gun; information security often hinges on the trustworthiness of insiders.",
+      "quote": "One might think a spy needs a gun or a knife, but in the end, the most dangerous weapon was a simple memo stamped 'Top Secret.'",
+      "source": "Robert Hanssen (paraphrased)",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-hanssen-worst-place",
+      "date": "2026-02-19",
+      "title": "In the Belly of the Beast",
+      "lesson": "The greatest damage can be done by those on the inside; a mole in one’s own intelligence agency is uniquely positioned to cause harm.",
+      "quote": "The worst place for an intelligence service to find an enemy spy is within its own ranks.",
+      "source": "FBI Counterintelligence Manual",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-hoover-window-dressing",
+      "date": "2026-02-19",
+      "title": "The Communist Window Dressing",
+      "lesson": "Popular social causes are often used as 'window dressing' to conceal deeper ideological aims.",
+      "quote": "The American progress... is being adopted as window dressing by the communists to conceal their true aims and entrap gullible followers.",
+      "source": "J. Edgar Hoover",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-philby-belonging",
+      "date": "2026-02-19",
+      "title": "The Root of Betrayal",
+      "lesson": "Betrayal requires a lack of fundamental identity with the organization being targeted.",
+      "quote": "To betray, you must first belong. I never belonged.",
+      "source": "Kim Philby",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-rule-1-assume-nothing",
+      "date": "2026-02-19",
+      "title": "Moscow Rule #1",
+      "lesson": "The most fundamental rule of espionage is to discard all assumptions about the safety of an environment.[10, 11]",
+      "quote": "Assume nothing. Technology will always let you down. Murphy is right.",
+      "source": "CIA Tradecraft",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-rule-30-enemy-action",
+      "date": "2026-02-19",
+      "title": "Enemy Action",
+      "lesson": "When multiple unlikely events align, assume it’s enemy action 2 rather than coincidence.",
+      "quote": "Once is happenstance, twice is coincidence, the third time it's enemy action.",
+      "source": "Espionage Adage",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs Expanded.pdf"
+    },
+    {
+      "id": "cw-tolkachev-humanity",
+      "date": "2026-02-19",
+      "title": "Human Intelligence at a Cost",
+      "lesson": "Securing human intelligence assets can sometimes conflict with professed values, requiring compromise and moral flexibility.",
+      "quote": "Adolf Tolkachev became one of the CIA’s most valuable assets, but the agency had to look past his more unsavory personal traits to secure his cooperation.",
+      "source": "CIA Case Files",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-wolf-juliet-access",
+      "date": "2026-02-19",
+      "title": "Honey Traps and Secretaries",
+      "lesson": "Targeting lonely or dissatisfied individuals with carefully crafted relationships can yield high-level intelligence access.",
+      "quote": "Markus Wolf’s \\\"Romeo\\\" operatives infiltrated West Germany by wooing secretaries and support staff, granting access to sensitive information that brute force never could.",
+      "source": "Stasi Playbook",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-wolf-sex-spying",
+      "date": "2026-02-19",
+      "title": "The Romeo Spy",
+      "lesson": "Romantic or sexual entrapment (\\\"sexpionage\\\") is a time-tested method to compromise targets and extract intelligence.",
+      "quote": "The East German Stasi perfected \\\"sexpionage\\\"—the use of romance or sexual entrapment to recruit assets.",
+      "source": "HVA (East German Foreign Intelligence)",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1943-venona-project",
+      "date": "2026-02-20",
+      "title": "The Venona Decryptions",
+      "lesson": "Code-breaking can quietly tip the balance in an intelligence war. The Venona Project’s painstaking decryption of Soviet cables identified espionage networks in the West, shaping counterintelligence operations for decades.",
+      "quote": "What began in 1943 as an ill-funded codebreaking effort blossomed into one of the Cold War’s greatest intelligence coups, exposing not just one spy, but an entire lattice of them.",
+      "source": "NSA Archives",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1945-the-great-seal-bug",
+      "date": "2026-02-20",
+      "title": "The Thing in the Seal",
+      "lesson": "The Soviets demonstrated early on that patience and ingenuity in bug design could yield priceless intelligence without a hint of suspicion from targets.",
+      "quote": "In 1945, a gift to the U.S. Ambassador in Moscow—an ornate wooden Great Seal—hid an ingenious transmitter that activated only when hit by a specific radio beam. It harbored secrets in plain sight for seven years before discovery.",
+      "source": "CIA Historical Archives",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1953-hollow-nickel",
+      "date": "2026-02-20",
+      "title": "The Hollow Nickel",
+      "lesson": "Tradecraft improvisation can be surprisingly low-tech. In 1953, a newspaper boy in Brooklyn dropped a hollow coin revealing a microfilm cipher—unmasking a Soviet spy ring operating in the United States.",
+      "quote": "A top-secret message folded inside an ordinary nickel reminded everyone that not all spycraft sparkled with James Bond’s glamour; sometimes it jingled in a pocket.",
+      "source": "FBI Case File 342",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1955-kgb-tradecraft-mice",
+      "date": "2026-02-20",
+      "title": "M.I.C.E. and Motivation",
+      "lesson": "The KGB categorized spy motivations as Money, Ideology, Coercion, and Ego (M.I.C.E.) by the mid-20th century—a framework still taught in spycraft today.",
+      "quote": "In a 1955 KGB manual, agents were reminded that even the most outwardly loyal person might be turned if you find the right cheese for their trap.",
+      "source": "KGB Training Manual",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1956-berlin-tunnel",
+      "date": "2026-02-20",
+      "title": "Operation Gold (The Berlin Tunnel)",
+      "lesson": "Audacious physical engineering can yield massive intel. The CIA and MI6 dug a 1,476-foot tunnel into East Berlin to tap Soviet landlines. However, mole George Blake had already tipped off the KGB.",
+      "quote": "The most audacious intelligence operation of the Cold War, compromised before the first shovel hit the dirt.",
+      "source": "CIA Historical Declassification",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1962-10-22-cuban-missile",
+      "date": "2026-02-20",
+      "title": "The Cuban Missile Intelligence",
+      "lesson": "Timely intelligence can avert catastrophe. During the Cuban Missile Crisis, information from U-2 spy planes and sources like Oleg Penkovsky confirmed the Soviet threat and provided President Kennedy the evidence needed to enforce a blockade and demand withdrawal.",
+      "quote": "\\\"We’re eyeball to eyeball, and I think the other fellow just blinked,\\\" quipped Secretary of State Dean Rusk as Soviet ships turned back — a testament to the high-stakes intelligence standoff.",
+      "source": "CIA Cuban Missile Files",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1963-kim-philby-cambridge",
+      "date": "2026-02-20",
+      "title": "Kim Philby and the Cambridge Five",
+      "lesson": "Ideological spies are the hardest to detect. Philby, a British aristocrat and high-ranking MI6 officer, spied for the KGB for decades out of pure communist conviction.",
+      "quote": "To betray, you must first belong. I never belonged.",
+      "source": "Kim Philby (MI6 Officer / KGB Asset)",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1970-angleton-mirrors",
+      "date": "2026-02-20",
+      "title": "Wilderness of Mirrors",
+      "lesson": "Overzealous mole-hunting can paralyze an agency. James Jesus Angleton’s obsessive search for Soviet moles in the CIA (the \\\"wilderness of mirrors\\\") led to a climate of deep paranoia that crippled CIA operations in the 1970s.",
+      "quote": "In the end, Angleton’s molehunt accused so many innocents that the only victory was handed to the KGB, which watched the CIA tear itself apart.",
+      "source": "CIA Internal Review",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1974-colby-phoenix",
+      "date": "2026-02-20",
+      "title": "Counterinsurgency Controversies",
+      "lesson": "Cold War intelligence blurred lines between espionage and paramilitary action. William Colby’s oversight of the Phoenix Program in Vietnam, aimed at dismantling the Viet Cong infrastructure, sparked debates on ethical boundaries and effectiveness.",
+      "quote": "Colby argued Phoenix was a surgical counter-insurgency; others condemned it as an assassination campaign — a schism that foreshadowed America’s future counterterrorism dilemmas.",
+      "source": "CIA Vietnam War Briefings",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1974-project-azorian",
+      "date": "2026-02-20",
+      "title": "Project Azorian",
+      "lesson": "Not even the depths of the ocean were off-limits. In 1974, the CIA attempted to covertly raise a sunken Soviet submarine (K-129) from the Pacific floor under the guise of a mining operation—a multimillion-dollar intelligence gambit that was only partially successful but entirely bold.",
+      "quote": "With a clanking shudder, the massive claw of the Glomar Explorer hoisted secrets from three miles beneath the sea. Even in failure, Project Azorian’s audacity stunned the world when it came to light.",
+      "source": "CIA Project Azorian Files",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1978-poison-umbrella",
+      "date": "2026-02-20",
+      "title": "The Bulgarian Umbrella",
+      "lesson": "Assassination tradecraft utilizes plausible deniability. Dissident Georgi Markov was assassinated in London via a micro-pellet of ricin fired from a modified umbrella by the KGB/Bulgarian secret service.",
+      "quote": "There is no such thing as an unsolvable murder, only an unprovable one.",
+      "source": "KGB Directorate K (Assassinations & Sabotage)",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1980-numbers-stations",
+      "date": "2026-02-20",
+      "title": "The Eerie Airwaves",
+      "lesson": "Shortwave numbers stations, broadcasting coded messages to spies, illustrate the enduring value of one-way communication. In the 1980s, mysterious broadcasts of digits and melodies hinted at espionage active on a global scale.",
+      "quote": "\\\"3-5-7-1...\\\" — the monotonous litany of a numbers station was both unsettling and assuring; for the spy who tuned in, it meant they were not alone, instructions were on the air.",
+      "source": "Signals Intelligence Records",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1982-farewell-dossier",
+      "date": "2026-02-20",
+      "title": "The Farewell Dossier",
+      "lesson": "The discovery of a massive technology theft campaign (via the Farewell Dossier) allowed Western counterintelligence to turn the tables. By feeding the Soviets defective designs and malware-laced software, the CIA triggered embarrassing failures, including a pipeline explosion in 1982.",
+      "quote": "In espionage, the best offense is often a well-crafted sabotage: the Farewell Dossier transformed NATO countries into unwitting double agents, delivering Trojan horses instead of treasure.",
+      "source": "French Intelligence Files",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1985-hanssen-dead-drops",
+      "date": "2026-02-20",
+      "title": "The Dead Drop Master",
+      "lesson": "Even after multiple betrayals, simple tradecraft techniques like dead drops remained effective. Robert Hanssen exchanged packages with the KGB in 7 secret locations around Washington, D.C., evading detection for years.",
+      "quote": "Hanssen never needed high-tech gadgets — just a bag of garbage left under a park footbridge, and a quiet signal to let the KGB know it was ready for pickup.",
+      "source": "FBI Surveillance Logs",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1985-tolkachev-billion",
+      "date": "2026-02-20",
+      "title": "The Billion-Dollar Spy",
+      "lesson": "One well-placed asset can alter the military balance. Adolf Tolkachev, a Soviet radar engineer, supplied the CIA with reams of technical data in the 1980s, saving the U.S. an estimated billion dollars in R&D and countering advanced Soviet weapons.",
+      "quote": "Tolkachev’s drawings and documents were worth battalions on the battlefield — a reminder that in the Cold War, brains often outmatched brawn.",
+      "source": "CIA Moscow Station Files",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1986-chalk-marks",
+      "date": "2026-02-20",
+      "title": "The Mailbox Signal",
+      "lesson": "Simple, low-tech signals are the most reliable. Aldrich Ames signaled his KGB handlers that a dead drop was loaded by simply making a horizontal chalk mark on a specific mailbox in Washington D.C.",
+      "quote": "A piece of chalk and a mailbox. That’s all it took to dismantle our entire Soviet network.",
+      "source": "FBI Counterintelligence Division",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1992-mitrokhin-archive",
+      "date": "2026-02-20",
+      "title": "The Mitrokhin Archive",
+      "lesson": "Long after the Cold War, secrets emerged from the archives. In 1992, former KGB archivist Vasili Mitrokhin defected with thousands of documents, revealing Soviet operations worldwide and sparking new investigations into decades-old espionage cases.",
+      "quote": "The Mitrokhin Archive was the gift that kept on giving — each yellowing page a time capsule that forced historians and spies alike to rewrite the secret history of a half-century.",
+      "source": "MI5 Archives",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-1994-aldrich-ames-greed",
+      "date": "2026-02-20",
+      "title": "Betrayal for Greed",
+      "lesson": "No amount of internal oversight can fully stop a determined insider motivated by personal gain. Aldrich Ames spied for years by exploiting lax security, only getting caught when his sudden wealth raised suspicions.",
+      "quote": "Ames sold secrets wholesale, and the CIA paid the bill in blood — a cycle only broken when the money trail grew too obvious to ignore.",
+      "source": "Senate Intelligence Report",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-fact-dead-drop-simplicity",
+      "date": "2026-02-20",
+      "title": "The Dead Drop Simplicity",
+      "lesson": "In an age of advanced gadgetry, the simplest techniques often remained the most effective and hardest to trace.",
+      "quote": "One of the most secure dead drops was nothing more than a loose brick in a wall. Despite satellites and lasers, a brick never betrays its secret on its own.",
+      "source": "CIA Tradecraft Memoirs",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-fact-suicide-glasses",
+      "date": "2026-02-20",
+      "title": "The Suicide Specs",
+      "lesson": "Spy gear often included fail-safes; even something as innocuous as eyewear could hide a means to evade capture through suicide.",
+      "quote": "KGB cyanide capsules were concealed in the hinges of eyeglasses— offering agents a final escape if compromised in the field.",
+      "source": "KGB Technical Manual",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-lamphere-vestibule",
+      "date": "2026-02-20",
+      "title": "The Vestibule to Treason",
+      "lesson": "Even deeply secret projects can be compromised if operational compartments overlap without proper security.",
+      "quote": "When Meredith Gardner and Robert Lamphere quietly unearthed the extent of Soviet infiltration through the Venona Project, they found themselves standing in a vestibule to an unseen world of espionage.",
+      "source": "FBI Venona Files",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    },
+    {
+      "id": "cw-mulholland-magician",
+      "date": "2026-02-20",
+      "title": "The Magician's Manual",
+      "lesson": "Espionage can draw on art and entertainment for inspiration— illusionists’ tricks were repurposed to teach spies sleight-of-hand skills.",
+      "quote": "John Mulholland, a professional magician, was commissioned by the CIA to write a secret manual on deception and misdirection for field officers.",
+      "source": "CIA Training Archive",
+      "tags": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "ingestedFrom": "Cold War Daily Briefs.pdf"
+    }
+  ]
+}

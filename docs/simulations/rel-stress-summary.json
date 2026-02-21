@@ -1,0 +1,95 @@
+[
+  {
+    "scenario": "A",
+    "usersPerCohort": 25,
+    "monteRuns": 200,
+    "day250": {
+      "dailyEmission_p50": 51967.42309496552,
+      "dailyEmission_p95": 51967.42309496552,
+      "cumRewardUser1_p50": 113235.56412375171,
+      "cumRewardUser1_p95": 121349.12737556314,
+      "cumRewardUser3_p50": 247780.98639650014,
+      "cumRewardUser3_p95": 262455.81524771306,
+      "cumRewardWhale_p50": 5785985.229737742,
+      "cumRewardWhale_p95": 6029304.0027068015,
+      "rawStakeUser1_p50": 233911.83370666197,
+      "rawStakeUser1_p95": 243935.61671962994,
+      "rawStakeUser3_p50": 409559.8029136963,
+      "rawStakeUser3_p95": 425856.47270572785,
+      "rawStakeWhale_p50": 7474485.266650376,
+      "rawStakeWhale_p95": 7771142.009430239,
+      "anomalyCount_p50": 15,
+      "anomalyCount_p95": 21,
+      "bpsUser1_day250": 7000,
+      "bpsUser3_day250": 19500,
+      "bpsWhale_day250": 13250
+    },
+    "constants": {
+      "cycleBudget": 39375000,
+      "reserveSpecialEditions": 16875000,
+      "remainingEmissionPool": 56250000
+    }
+  },
+  {
+    "scenario": "B",
+    "usersPerCohort": 100,
+    "monteRuns": 200,
+    "day250": {
+      "dailyEmission_p50": 51967.42309496552,
+      "dailyEmission_p95": 51967.42309496552,
+      "cumRewardUser1_p50": 31298.670684647248,
+      "cumRewardUser1_p95": 33364.71557232078,
+      "cumRewardUser3_p50": 66106.94499438937,
+      "cumRewardUser3_p95": 69047.57785638298,
+      "cumRewardWhale_p50": 5429179.905391942,
+      "cumRewardWhale_p95": 5627496.688020825,
+      "rawStakeUser1_p50": 61487.322438441624,
+      "rawStakeUser1_p95": 64298.17929573014,
+      "rawStakeUser3_p50": 106585.58648013123,
+      "rawStakeUser3_p95": 109639.9606106331,
+      "rawStakeWhale_p50": 7127635.064861873,
+      "rawStakeWhale_p95": 7345626.280214965,
+      "anomalyCount_p50": 15,
+      "anomalyCount_p95": 21,
+      "bpsUser1_day250": 7000,
+      "bpsUser3_day250": 19500,
+      "bpsWhale_day250": 13250
+    },
+    "constants": {
+      "cycleBudget": 39375000,
+      "reserveSpecialEditions": 16875000,
+      "remainingEmissionPool": 56250000
+    }
+  },
+  {
+    "scenario": "C",
+    "usersPerCohort": 250,
+    "monteRuns": 200,
+    "day250": {
+      "dailyEmission_p50": 51967.42309496552,
+      "dailyEmission_p95": 51967.42309496552,
+      "cumRewardUser1_p50": 14305.64447931859,
+      "cumRewardUser1_p95": 15064.730813570375,
+      "cumRewardUser3_p50": 29065.59915748922,
+      "cumRewardUser3_p95": 30077.572771412422,
+      "cumRewardWhale_p50": 4879425.805536743,
+      "cumRewardWhale_p95": 5053873.645121208,
+      "rawStakeUser1_p50": 26649.205575271008,
+      "rawStakeUser1_p95": 27696.184917162795,
+      "rawStakeUser3_p50": 45399.71913457365,
+      "rawStakeUser3_p95": 46530.37258652544,
+      "rawStakeWhale_p50": 6581363.663548455,
+      "rawStakeWhale_p95": 6772377.696333129,
+      "anomalyCount_p50": 15,
+      "anomalyCount_p95": 21,
+      "bpsUser1_day250": 7000,
+      "bpsUser3_day250": 19500,
+      "bpsWhale_day250": 13250
+    },
+    "constants": {
+      "cycleBudget": 39375000,
+      "reserveSpecialEditions": 16875000,
+      "remainingEmissionPool": 56250000
+    }
+  }
+]

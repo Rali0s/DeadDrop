@@ -1,11 +1,15 @@
 # DeadDrop Contracts Security Checklist
 
+Security gate artifacts:
+- Threat model: `<REPO_ROOT>/docs/security/daily-brief-nft-threat-model.md`
+- Gate checklist: `<REPO_ROOT>/docs/security/daily-brief-nft-security-gates.md`
+
 References used:
 - ConsenSys Smart Contract Best Practices: https://consensysdiligence.github.io/smart-contract-best-practices/
 - ConsenSys Reentrancy Guidance: https://consensysdiligence.github.io/smart-contract-best-practices/attacks/reentrancy/
 - OpenZeppelin Contracts docs (v5): https://docs.openzeppelin.com/contracts
 - OpenZeppelin AccessControl docs: https://docs.openzeppelin.com/contracts/5.x/access-control
-- Provided checklist: `/Users/proteu5/Downloads/Ethereum Smart Contract Audit CheckList.md`
+- Provided checklist: `<LOCAL_DOWNLOADS>/Ethereum Smart Contract Audit CheckList.md`
 
 ## Control Matrix
 
@@ -46,7 +50,7 @@ References used:
 
 ## Commands
 
-Run from `/Users/proteu5/Documents/Github/DeadDrop`:
+Run from `<REPO_ROOT>`:
 
 ```bash
 npm run build --workspace=@deaddrop/contracts

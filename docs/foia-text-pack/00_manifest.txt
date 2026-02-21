@@ -1,0 +1,36 @@
+FOIA Text Pack Manifest
+========================================================================
+Output directory: /Users/proteu5/Documents/Github/DeadDrop/docs/foia-text-pack
+Requested parts: 5
+Extracted pages: 166
+
+Input extraction status:
+- mkdelta.pdf: 8 page(s) with embedded text
+- MKULTRA NOTIFICATION PROG[12888107].pdf: 2 page(s) with embedded text
+- MKULTRA PROGRAM[12884313].pdf: 2 page(s) with embedded text
+- MKULTRA-MKDELTA[12885159].pdf: 3 page(s) with embedded text
+- MKUltra-Recipts.pdf: 97 page(s) with embedded text
+- PK-Agent-Self-Report.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-GF-Session.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-Grill-Flame_Sun-Streak-Manual.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-Grill-Flame-Budget.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-Grill-Flame-II.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-Grill-Flame-Manual.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-Grill-Flame-NOFORN.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-Grill-Flame.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-Index.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-RV-Rev2.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-RV.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK-Techniques.pdf: 0 page(s) with embedded text (OCR likely needed)
+- PK.pdf: 0 page(s) with embedded text (OCR likely needed)
+- project mk-ultra[15545700].pdf: 8 page(s) with embedded text
+- REPORT OF INSPECTION OF M[15603475].pdf: 46 page(s) with embedded text
+
+Extracted pages by source:
+- MKULTRA NOTIFICATION PROG[12888107].pdf: 2 page(s)
+- MKULTRA PROGRAM[12884313].pdf: 2 page(s)
+- MKULTRA-MKDELTA[12885159].pdf: 3 page(s)
+- MKUltra-Recipts.pdf: 97 page(s)
+- REPORT OF INSPECTION OF M[15603475].pdf: 46 page(s)
+- mkdelta.pdf: 8 page(s)
+- project mk-ultra[15545700].pdf: 8 page(s)
