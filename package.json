@@ -10,6 +10,7 @@
     "dev": "npm run dev --workspace=@deaddrop/web",
     "dev:web": "npm run dev --workspace=@deaddrop/web",
     "dev:api": "npm run dev --workspace=@deaddrop/api",
+    "start": "node ./railway-start.mjs",
     "start:web": "npm run start --workspace=@deaddrop/web",
     "start:api": "npm run start --workspace=@deaddrop/api",
     "build": "npm run build --workspaces",
